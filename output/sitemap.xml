@@ -7,11 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://emilypastewka.com/</loc>
-  <lastmod>2022-01-16T16:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/2012/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
+  <lastmod>2022-01-16T19:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://emilypastewka.com/2022/</loc>
@@ -22,48 +18,16 @@
   <lastmod>2022-01-16T19:37:00Z</lastmod>
  </url>
  <url>
-  <loc>https://emilypastewka.com/authors/</loc>
-  <lastmod>2022-01-16T16:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/authors/emily-w-bailey/</loc>
-  <lastmod>2022-01-16T16:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/authors/roberto-alsina/</loc>
-  <lastmod>2022-01-16T16:07:00Z</lastmod>
- </url>
- <url>
   <loc>https://emilypastewka.com/categories/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/categories/blog/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/categories/cat_nikola/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/categories/demo/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/categories/nikola/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/categories/python/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
+  <lastmod>2022-01-16T19:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://emilypastewka.com/galleries/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
+  <lastmod>2022-01-16T19:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://emilypastewka.com/galleries/demo/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
+  <lastmod>2022-01-16T19:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://emilypastewka.com/listings/</loc>
@@ -135,14 +99,6 @@
  </url>
  <url>
   <loc>https://emilypastewka.com/pages/theming/</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/posts/this-is-a-test/</loc>
-  <lastmod>2022-01-16T16:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://emilypastewka.com/posts/welcome-to-nikola/</loc>
   <lastmod>2022-01-16T16:06:00Z</lastmod>
  </url>
  <url>

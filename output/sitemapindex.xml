@@ -6,47 +6,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://emilypastewka.com/authors/emily-w-bailey.xml</loc>
-  <lastmod>2022-01-16T16:47:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/authors/roberto-alsina.xml</loc>
-  <lastmod>2022-01-16T16:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/categories/blog.xml</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/categories/cat_nikola.xml</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/categories/demo.xml</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/categories/nikola.xml</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/categories/python.xml</loc>
-  <lastmod>2022-01-16T16:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/galleries/demo/rss.xml</loc>
-  <lastmod>2022-01-16T19:08:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/galleries/rss.xml</loc>
-  <lastmod>2022-01-16T19:08:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://emilypastewka.com/rss.xml</loc>
-  <lastmod>2022-01-16T16:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://emilypastewka.com/sitemap.xml</loc>
-  <lastmod>2022-01-16T19:37:00Z</lastmod>
+  <lastmod>2022-01-16T19:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>
