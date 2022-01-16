@@ -701,6 +701,9 @@ GITHUB_REMOTE_NAME = 'origin'
 # before deploying.
 GITHUB_COMMIT_SOURCE = True
 
+# TODO
+#  If you want to use a custom domain, create your CNAME file in files/CNAME on the source branch. Nikola will copy it to the output directory. To add a custom commit message, use the -m option, followed by your message.
+
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
 # to the location of conf.py
