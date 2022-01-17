@@ -157,7 +157,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "base"  # never got mdl working with GLOBAL_CONTEXT and many willy-theme features were failing
+THEME = "bootstrap4"  # never got mdl working with GLOBAL_CONTEXT and many willy-theme features were failing
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
