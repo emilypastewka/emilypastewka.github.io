@@ -1279,6 +1279,17 @@ GENERATE_RSS = False
 # EXTRA_HEAD_DATA = ""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
+ANALYTICS = """
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8CLS7XHY4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J8CLS7XHY4');
+</script>
+"""
 # (translatable)
 # BODY_END = ""
 
@@ -1418,7 +1429,9 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+    'analytics': ANALYTICS
+}
 # to be used with mdl theme
 # GLOBAL_CONTEXT = {
 #    "mdl__version": "1.3.0",
