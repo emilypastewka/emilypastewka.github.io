@@ -253,6 +253,15 @@ PAGES = (
 # For moot comment support
 BODY_END = """
 <script src="//cdn.moot.it/1/moot.min.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8CLS7XHY4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J8CLS7XHY4');
+</script>
 """
 EXTRA_HEAD_DATA = """
 <link rel="stylesheet" type="text/css" href="//cdn.moot.it/1/moot.css">
@@ -1279,17 +1288,17 @@ GENERATE_RSS = False
 # EXTRA_HEAD_DATA = ""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-ANALYTICS = """
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8CLS7XHY4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-J8CLS7XHY4');
-</script>
-"""
+# ANALYTICS = """
+# <!-- Global site tag (gtag.js) - Google Analytics -->
+# <script async src="https://www.googletagmanager.com/gtag/js?id=G-J8CLS7XHY4"></script>
+# <script>
+#   window.dataLayer = window.dataLayer || [];
+#   function gtag(){dataLayer.push(arguments);}
+#   gtag('js', new Date());
+#
+#   gtag('config', 'G-J8CLS7XHY4');
+# </script>
+# """
 # (translatable)
 # BODY_END = ""
 
@@ -1430,7 +1439,7 @@ WARN_ABOUT_TAG_METADATA = False
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-    'analytics': ANALYTICS
+    # 'analytics': ANALYTICS
 }
 # to be used with mdl theme
 # GLOBAL_CONTEXT = {
