@@ -85,7 +85,7 @@ Over the next few years, I’ll be tracking my proxy metric closely, i.e. watchi
 
 In case I haven’t said this enough, I still have so much to learn about this space. In particular, as a data person, I’m ashamed to say I have yet to get my hands dirty with any blockchain data. I’m itching to do so, but in the middle of a few too many things right now and a bit of a stickler about my sleep. It’s on the list! Expect a follow up when I get there.
 
-Also, I don’t have comments set up here, so you are cordially invited to `tweet at me <https://twitter.com/emilywbailey/>`__ pointing out so the gaping holes in my knowledge.
+Also, I don’t have comments set up here, so you are cordially invited to `tweet at me <https://twitter.com/emilywbailey/status/1498506320575610882>`__ pointing out so the gaping holes in my knowledge.
 
 ----------
 
@@ -98,7 +98,7 @@ Also, I don’t have comments set up here, so you are cordially invited to `twee
 
 .. [#] it is important to note that I don’t mean `semantic web <https://en.wikipedia.org/wiki/Semantic_Web>`__ but rather the `blockchain based decentralization of the web <https://en.wikipedia.org/wiki/Web3>`__
 .. [#] `web3 is the mirror of Erised. <https://blockworks.co/why-all-the-hate-directed-at-web3/>`__ it all makes sense now.
-.. [#] this term also feels like a recent trend...`semi <https://trends.google.com/trends/explore?date=all&geo=US&q=aughts>`__ -`confirmed <https://trends.google.com/trends/explore?date=all&geo=US&q=early%20aughts>`__
+.. [#] this term also feels like a recent trend... `semi <https://trends.google.com/trends/explore?date=all&geo=US&q=aughts>`__ -`confirmed <https://trends.google.com/trends/explore?date=all&geo=US&q=early%20aughts>`__
 .. [#] Vitalik Butarin sure `thinks so <https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/>`__ and he is better informed than I am so
 .. [#] how can one write a post on web3 without including `this gem <https://twitter.com/jack/status/1473165759224463360?lang=en>`__
 .. [#] maybe that’s all of modern capitalism and not a bug unique to crypto...pretty stable so far, guess that backs up this case
