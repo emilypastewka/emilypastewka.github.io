@@ -1,7 +1,7 @@
 .. title: What is the rational approach to today's startup lottery?
 .. slug: valuations_mar2022
 .. date: 2022-03-30 09:03:00 UTC-05:00
-.. tags: web3
+.. tags: jobs
 .. category: 
 .. link: 
 .. description: 
