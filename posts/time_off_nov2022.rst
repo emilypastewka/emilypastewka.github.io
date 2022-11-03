@@ -1,7 +1,7 @@
-.. title: 
+.. title: 3 months, 3 lives lived
 .. slug: time_off_nov2022
 .. date: 2022-11-04 14:00:00 UTC-07:00
-.. tags: 
+.. tags: sabbatical
 .. category: 
 .. link: 
 .. description: 
