@@ -102,7 +102,7 @@ Also, I don’t have comments set up here, so you are cordially invited to `twee
 .. [#] `web3 is the mirror of Erised. <https://blockworks.co/why-all-the-hate-directed-at-web3/>`__ it all makes sense now.
 .. [#] this term also feels like a recent trend... `semi <https://trends.google.com/trends/explore?date=all&geo=US&q=aughts>`__ -`confirmed <https://trends.google.com/trends/explore?date=all&geo=US&q=early%20aughts>`__
 .. [#] Vitalik Butarin sure `thinks so <https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/>`__ and he is better informed than I am so
-.. [#] 2022-03-01 edit: I originally had `this paper <https://www.nber.org/system/files/working_papers/w29396/w29396.pdf>`__ and `this WSJ article <<https://www.wsj.com/articles/bitcoins-one-percent-controls-lions-share-of-the-cryptocurrencys-wealth-11639996204>`__ cited here but they both only discuss bitcoin. *big miss*
+.. [#] 2022-03-01 edit: I originally had `this paper <https://www.nber.org/system/files/working_papers/w29396/w29396.pdf>`__ and `this WSJ article <https://www.wsj.com/articles/bitcoins-one-percent-controls-lions-share-of-the-cryptocurrencys-wealth-11639996204>`__ cited here but they both only discuss bitcoin. *big miss*
 .. [#] how can one write a post on web3 without including `this gem <https://twitter.com/jack/status/1473165759224463360?lang=en>`__
 .. [#] maybe that’s all of modern capitalism and not a bug unique to crypto...pretty stable so far, guess that backs up this case
 .. [#] I wrote this sentence Feb 21st, AKA before Feb 24th. *yikes*
