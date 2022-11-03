@@ -47,4 +47,3 @@ If you're thinking of doing something similar, `drop me a note<emilyweymouthbail
 .. [#] This also allowed me to bring my cat along for the ride, helping keep homesickness at bay. Colombia makes travel with cats *much* easier than travel with dogs, and my cat loves new places & faces.
 .. [#] I name the specific studio because I recommend it so highly. Beautiful space with wonderful instructors.
 .. [#] By my count, this is 100% of the pedestrian-friendly Manhattan-connecting bridges. Yes, I'm including the George Washington Bridge to New Jersey.
-.. [#] 
