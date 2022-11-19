@@ -55,10 +55,10 @@ div.text_cell_render {
   margin: 0 0 0px;
 }
 
-.post-content > .content p {
+/* .post-content {
   margin-top: 20px;
-}
+} */
 
-.snippet-content > .content p {
+.snippet-content {
   margin-top: 20px;
 }
