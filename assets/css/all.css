@@ -745,10 +745,12 @@ html[dir="rtl"] #toptranslations {
 
 .post-content {
 	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .snippet-content {
 	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 #header {
