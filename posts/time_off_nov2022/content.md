@@ -18,7 +18,7 @@ My goals for the 12 weeks shifted somewhat as the days passed — more on that s
 ## Part 1: Expat
 12 weeks sounds long, but I had a hunch it would feel short, so I decided to kick-start my time off by immediately changing locations. I rented an apartment in Medellín and flew down just 2 days after playing "see you later" Codenames with my team (a tradition we employ for celebrations of all types). I chose to stay in the city for 5 full weeks because I wanted to feel like I had lived somewhere new, instead of like I was on an extended vacation [[6]](#6). I spent my weekday mornings in Spanish immersion classes, my Saturdays volunteering as an English teacher at a local community center, my evenings at [108 Yoga](https://108yogacolombia.com/) [[7]](#7), and all of the time in between split between pushing forward the graduate thesis & creative writing. I loved how much control I had over my schedule during this period. I felt focused, productive, unstressed. 
 
-### Part 2: Nomad
+## Part 2: Nomad
 
 Upon returning to Brooklyn, life immediately became a maelstrom once again. In addition to packing up our home for a move to Colorado and saying goodbye to all of our NYC friends, we attended wedding-related events all over North America. Since life was going to feel crazy no matter what, I leaned into the chaos. I set a goal of saying goodbye to New York by running across every bridge that connects Manhattan to another body of land, and covered 19 of them [[8]](#8). I scheduled personal trips in between obligations, including finding opportunities to continue practicing Spanish and a 3-day solo backpacking trip down the [Lost Coast](https://www.instagram.com/p/CjHKXlmpm0e/). I spent weeks with parents, grandparents, aunts, and uncles. Pursuing so many passions, I felt whole and energized in a way that I hadn't even realized was missing.
 
@@ -26,7 +26,7 @@ I also learned during this period that Rent the Runway would be restructuring, c
 
 I closed out this time by successfully defending my graduate thesis 🎓. 
 
-### Part 3: Staycation
+## Part 3: Staycation
 
 When I finally stopped traveling, I embraced the time I had to breathe. I picked up fun side projects. I tidied my digital clutter. I took my dog hiking. I stood in line with my family for 2 hours to get a photo with the Stanley Cup and didn't stress about everything else I could be doing with that Saturday afternoon. I treasured these spacious hours but also hope I've been laying groundwork for a "new normal" in my life.
 
