@@ -743,8 +743,12 @@ html[dir="rtl"] #toptranslations {
 	padding-bottom: 1em;
 }
 
+.post-content {
+	margin-top: 15px;
+}
+
 .snippet-content {
-	margin-top: 20px;
+	margin-top: 15px;
 }
 
 #header {
