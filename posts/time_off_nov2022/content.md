@@ -34,7 +34,7 @@ Next Monday, I go back to work. Part of me can't help but to feel sad that this 
 
 A big part of me is also feeling excited. I am so proud and grateful to have taken this time, and to have used it the way I did. I accomplished every goal I set out to and much, much more. 
 
-If you're thinking of doing something similar, [drop me a note](emilypastewka@gmail.com). I'd love to hear about your decision process, how you structure your time, whether or not you set goals, and how it all turns out. 
+If you're thinking of doing something similar, [drop me a note](mailto:emilypastewka@gmail.com). I'd love to hear about your decision process, how you structure your time, whether or not you set goals, and how it all turns out. 
 
 
 ----------
