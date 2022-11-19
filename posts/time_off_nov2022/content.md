@@ -39,7 +39,7 @@ If you're thinking of doing something similar, [drop me a note](emilyweymouthbai
 
 ----------
 
-### [1]
+#### [1]
 [HR company Namely reports that employees with unlimited PTO take 13% fewer vacation days than employees without](https://blog.namely.com/unlimited-vacation-policy)
 #### [2]
 [An INSIDER poll found that nearly twice as many American workers with unlimited PTO policies said they "always" work on vacation or check email on vacation vs. those with traditional PTO policies](https://www.insider.com/people-with-unlimited-pto-policies-spend-every-vacation-working-2019-6#:~:text=The%20poll%20found%20that%2029,plans%2C%20the%20numbers%20are%20bleak.)
@@ -47,11 +47,11 @@ If you're thinking of doing something similar, [drop me a note](emilyweymouthbai
 My anecdotal experience is also backed up by research. [Brad Stulberg's *Peak Performance* goes deep on this topic](https://www.bradstulberg.com/books)
 #### [4]
 Pro tip: if you are located in the US and willing to miss celebrating a traditional Thanksgiving, that's often an excellent week or two to be OOO without missing a beat.
-### [5]
+#### [5]
 RTR has a generous sabbatical policy, but due to my short tenure I didn't yet qualify.
-### [6] 
+#### [6] 
 This also allowed me to bring my cat along for the ride, helping keep homesickness at bay. Colombia makes travel with cats *much* easier than travel with dogs, and my cat loves new places & faces.
-### [7] 
+#### [7] 
 I name the specific studio because I recommend it so highly. Beautiful space with wonderful instructors.
-### [8] 
+#### [8] 
 By my count, this is 100% of the pedestrian-friendly Manhattan-connecting bridges. Yes, I'm including the George Washington Bridge to New Jersey.
