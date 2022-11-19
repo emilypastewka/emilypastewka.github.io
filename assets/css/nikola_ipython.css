@@ -54,3 +54,11 @@ div.text_cell_render {
 .page-content > .content p {
   margin: 0 0 0px;
 }
+
+.post-content > .content p {
+  margin-top: 20px;
+}
+
+.snippet-content > .content p {
+  margin-top: 20px;
+}
