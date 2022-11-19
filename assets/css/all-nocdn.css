@@ -742,6 +742,11 @@ html[dir="rtl"] #toptranslations {
 	border-bottom: 1px solid #4F5151;
 	padding-bottom: 1em;
 }
+
+.snippet-content {
+	margin-top: 20px;
+}
+
 #header {
 	border-bottom: 1px solid #4F5151;
 }
