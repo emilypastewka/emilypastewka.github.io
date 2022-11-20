@@ -42,7 +42,7 @@ However, I don’t fully agree. The value of data doesn’t just come from ownin
 
 I’m not (by a long shot) the first to say that web3 could be as centralized as web2. And, as I mentioned earlier, I’m not nearly educated enough in this space. But from where I sit, this feels like a big problem for the promises being discussed. Here’s where we get back to 3D printing: to me, true decentralization feels unlikely to succeed (at least soon — I’ll get there in the next section). Some applications of a distributed ecosystem, however, feel really viable: the value of application to spaces like online ticket sales and digital art, for instance, may really outweigh the costs I described above. Like manufacturing and healthcare in 3D printing, these may be two of just a few use cases that stabilize for the long term.
 
-So, I don’t know, is this success? Congratulations, you win a new acronym to complain about that isn’t FANG. I’d say that’s not really what we meant.
+So, I don’t know, is this success? Congratulations, you win a new acronym to complain about that isn’t FAANG. I’d say that’s not really what we meant.
 
 **But...maybe web3 is more like Solar.**
 
