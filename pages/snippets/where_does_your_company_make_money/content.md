@@ -7,8 +7,8 @@ When I told my boss in 2015 that I would be leaving to join Uber, he didn't just
 
 ---
 
-#### 1 
+#### [1] 
 I have had so many great bosses. It is unbelievable how much this matters. 
 
-#### 2
+#### [2]
 One of the Uber offers was to join a brand new team within the company, and I couldn't pass up that entrepreneurial opportunity. It turned out to be the right call for me (it didn't hurt that the economy was on a tear, risks were relatively low). But I kept his advice in mind. Once my entrepreneurial itch was (temporarily, somewhat) scratched, I moved to the Finance team, and then the Marketplace team, and then core Product, gaining a deep understanding of the dollars and cents of the business and then applying that knowledge to building the things our customers wanted.
