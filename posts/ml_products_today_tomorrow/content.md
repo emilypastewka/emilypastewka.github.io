@@ -1,4 +1,4 @@
-# title
+# Building ML products today vs. tomorrow, and what it means for me
 
 ## Data & retail today
 Over the last few years of leading Machine Learning and Data Engineering at Rent the Runway, I've spent a lot of time trying to understand and plan for trends in the broader industry. Choosing the right projects to work on, hiring a flexible team who could handle the challenges coming our way, all required an informed perspective on cutting edge technology and other companies' approaches to leveraging it.
