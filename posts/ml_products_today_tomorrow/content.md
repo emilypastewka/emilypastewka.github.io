@@ -1,6 +1,6 @@
 # Building ML products today vs. tomorrow, and what it means for me
 
-## Data & retail today
+## Today
 Over the last few years of leading Machine Learning and Data Engineering at Rent the Runway, I've spent a lot of time trying to understand and plan for trends in the broader industry. Choosing the right projects to work on, hiring a flexible team who could handle the challenges coming our way, all required an informed perspective on cutting edge technology and other companies' approaches to leveraging it.
 
 Over time, I came to believe something that was, at first, jarring: I don't think the jobs I've had over the last decade will exist in another 10 years.
@@ -15,7 +15,7 @@ The next several columns help me determine whether outsourcing is actually possi
 
 Outsourcing feels expensive at first, and to be honest, we're in a bit of a strange period right now where it still can be more expensive than I believe it will come to be over time. Too many early MLaaS companies are built around a single data product, or very small number of them, requiring a leader like me to consider dozens of integrations to achieve all of her goals. And most companies more than a few years old weren't built with a tech infrastructure that makes integrating ML products straightforward. That's implies that outsourcing isn't so much reducing the burden of developing a data product as shifting the cost to another team. But it's something teams will get better at. It's something vendors will get better at. And we will inevitably see vendor consolidation. 
 
-## Data & retail tomorrow
+## Tomorrow
 
 In a [TWIML AI Podcast episode](https://twimlai.com/podcast/twimlai/applied-ai-ml-research-at-paypal-with-vidyut-naware/) earlier this year, Vidyut Naware, who works on Applied AI/ML Research at PayPal, discusses the way he thinks about the 4 layers of AI R&D today: hardware, algorithms, application, and tooling ecosystem. 
 
@@ -47,11 +47,11 @@ ___
 #### [1]
 Note that “should we do it” <> “should we do it now.” While in theory taking on every NPV-positive project is the path to maximizing a company's profits ([the NPV rule](https://www.investopedia.com/terms/n/npv-rule.asp#:~:text=The%20net%20present%20value%20rule%20is%20the%20idea%20that%20company,of%20net%20present%20value%20theory.)), in practice constraints exist: how big is the team, and how quickly can you grow it? On top of this evergreen constraint is the current tanking [belief rate](https://www.notboring.co/p/discounting-belief). Companies ([including RTR](https://www.retaildive.com/news/rent-the-runway-layoffs-corporate-employees/631683/)) are tightening their belts in the face of economic uncertainty rather than making bets, even good ones.
 
-#### 2
+#### [2]
 ![](../../images/global_vc_2012_2021.png)
-> Global venture investment in 2021 was more than tenfold that of  2012.
+> Global venture investment in 2021 was more than tenfold that of 2012.
 
 -- [CB News](https://news.crunchbase.com/business/global-vc-funding-unicorns-2021-monthly-recap/)
 
-#### 3
+#### [3]
 I began working at a boutique environmental consulting firm after graduating and quickly came to realize that I was much more excited to build things on my own than to tell other people how to do so. I felt terrible leaving after just 4 short months, but at the time, the move to Opower was a no-brainer.
