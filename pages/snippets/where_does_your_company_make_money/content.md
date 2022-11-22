@@ -3,7 +3,7 @@
 When I told my boss in 2015 that I would be leaving to join Uber, he didn't just try to convince me to stay (although the offer was competitive), he also helped me think through what decision would be best for my career [[1]](#1). I had been offered a choice between similar roles on two very different teams at Uber, and he said this: "always work at the center of the business." While I failed to take his advice at the time [[2]](#2), with years more experience under my belt today, I have a much deeper understanding of this guidance:
 - Working on the core revenue generator makes you invaluable in hard times (layoff-safe) and yields especially high pay in good times.
 - When you truly understand how a company makes money, your opportunities to move around are endless. Everyone at the company needs that knowledge. You are useful wherever you go.
-- Externally, people know your company for a few (or a handful of) things. Working on what your company means  having the company on your resume is a clear signal of what you are great at. 
+- Externally, people know your company for a few (or a handful of) things. Working on the thing your company is known for means having the company on your resume is a clear signal of what you are great at. 
 
 ---
 
