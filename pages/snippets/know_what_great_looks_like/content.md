@@ -6,7 +6,7 @@ In my later years at Uber, every fraction of a percent improvement we made to an
 
 Today, I ask my teams to start by defining a "great" outcome and at least a sketch of what would get us there for several reasons.
 - Prioritization and investment of effort is an optimization problem. Per the NPV rule, every project with positive net present ROI should be taken on. In reality, few companies are staffed to operate this way. Because our teams are constrained by headcount, tooling, and other resources, leaders must  seek the greatest possible ROI on our overall project portfolio subject to those realities. When determining whether to aim for "great" or "good enough" on a given project, I ask whether the marginal value of achieving "great" on this project outweighs the opportunity cost of achieving "good enough" on one more project my team could pick up. [[3]](#3)
-- In some cases, starting by defining the definition and approach to achieve "great" helps you plot that ROI curve, and you realize that while "great" may not be the right goal, it would actually be well worthwhile to land somewhere between "good enough" and "great." 
+- In some cases, starting by outlining the definition of and approach to achieve "great" helps you plot that ROI curve, and you realize that while "great" may not be the right goal, it would actually be well worthwhile to land somewhere beyond "good enough." 
 - Even if you don't choose to pursue anything beyond "good enough," by mapping out "great" you gain confidence that "good enough" is indeed the right place to land on the ROI curve. [[4]](#4)
 - By working backward from "great," you may find a better way to achieve "good enough" than had already been on your mind.
 - Whether you choose to pursue "great" now or not, by defining what it looks like and how to get there, you've written your future roadmap for the project.
@@ -22,7 +22,8 @@ Today, I ask my teams to start by defining a "great" outcome and at least a sket
 ___
 
 #### [1]
-In the past I've said my superpower is that I've done [every modern data role](../build_teams_of_t_shapes/), but really that's just the _how_ behind knowing what "great" looks like and how to get to "good enough." 
+In the past I've said my superpower is that I've done every modern data role, but really that's just the _how_ behind knowing what "great" looks like and how to get to "good enough." I did the jobs, I accreted knowledge.
+<!-- In the past I've said my superpower is that I've done [every modern data role](../build_teams_of_t_shapes/), but really that's just the _how_ behind knowing what "great" looks like and how to get to "good enough."  -->
 <!-- knowledge accretion -->
 
 #### [2]
