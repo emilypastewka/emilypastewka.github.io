@@ -10,7 +10,7 @@ Why is a team of T-shaped individuals better than a team that is medium-skilled 
 - Building a team of individuals who each have a deep strength in something you need ensures that strength actually exists on your team. Ten people who are medium-skilled or medium-knowledgeable at something are not, at times, as useful as one person who knows that thing intimately. 
 - [Humility is key to collaboration](../humility_is_key_to_collaboration/content.md) [and growth](../humility_is_key_to_growth/content.md). Being surrounded by people who are better at at least one thing drives humility and thus collaboration on the team.
 
- Why is a team of T-shaped individuals better than a team of people who are fully specialized (and, as a tradeoff, lack certain skills entirely)? 
+Why is a team of T-shaped individuals better than a team of people who are fully specialized (and, as a tradeoff, lack certain skills entirely)? 
 - An individual with at least some level of depth across the board ensures that person can [own their project end to end](../be_an_owner/content.md).
 - Some level of fluency with each vertical creates shared context when partnering with teammates whose T shapes are different.
 
