@@ -33,7 +33,7 @@ This was a big change, and change brings opportunity. I found I'm quite good at 
 
 At the same time, I began to feel that this is a point in my life where I'm uniquely open to risk. I started to feel around the space for opportunities to learn more, faster — maximum discomfort. I found myself especially excited about roles that would ask me to keep my eye on the larger industry — tracking big trends and shifts like those I discussed above and and determining how different companies need to shift their approach to successfully navigate them. 
 
-For the first time since 2012, consulting and similar roles began to interest me once again [[4]](#4). I especially loved that more older firms tend to seek such engagements, which would give me opportunities to untangle particularly challenging problems, bridging gaps covering potentially decades of technological change. On the complete other end of the spectrum, I was excited about SaaS startups building the types of tools and applications I saw enabling great data teams like mine. Serving B2B clients would still require me to dig into many companies' use of data to be successful, and having never worked outside of late-stage venture-funded (I've joined Series C-F exclusively), I knew the challenge of an earlier-stage company would be exciting. 
+For the first time since 2012, consulting and similar roles began to interest me once again [[4]](#4). I especially loved that older firms tend to seek such engagements, which would give me opportunities to untangle challenging problems covering potentially decades of technological change. On the complete other end of the spectrum, I was excited about SaaS startups building the types of tools and applications I saw enabling great data teams like mine. Serving B2B clients would still require me to dig into many companies' use of data to be successful, and having never worked outside of late-stage venture-funded (I've joined Series C-F exclusively), I knew the challenge of an earlier-stage company would be exciting. 
 
 In a perfect world, I could do both at the same time (and keep my Rent the Runway job, and finish writing a novel, and...), but [life is tradeoffs](../../pages/snippets/life_is_tradeoffs/). I chose the startup [[5]](#5).
 - There are a lot of reasons [why it's good to work at an early stage startup](https://www.entrepreneur.com/starting-a-business/why-everyone-should-work-for-a-startup-at-least-once/386165) generally. Getting comfortable with uncertainty feels especially valuable in today's world of [constant curve balls](../../pages/snippets/life_is_curve_balls/).
@@ -59,7 +59,7 @@ The Data Engineering podcast hosted a [nice discussion](https://www.dataengineer
 -- [CB News](https://news.crunchbase.com/business/global-vc-funding-unicorns-2021-monthly-recap/)
 
 #### [4]
-I began working at a boutique environmental consulting firm after graduating and quickly came to realize that I was much more excited to build things on my own than to tell other people how to do so. I felt terrible leaving after just 4 short months, but the move to Opower was a no-brainer.
+I began working at a boutique environmental consulting firm after graduating and quickly came to realize that I was much more excited to [build things on my own](../../pages/snippets/be_an_owner/) than to tell other people how to do so. I felt terrible leaving after just 4 short months, but the move to Opower was a no-brainer.
 
 #### [5]
 And actually, I am free to remain open to ad-hoc consulting engagements, which I still enjoy. 
