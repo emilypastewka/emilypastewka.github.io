@@ -9,7 +9,7 @@ When I first graduated college, I took what I thought was my dream job, consulti
 you didn't say "not my job," you asked "how do I do that?" It meant you  -->
 
 
-Mid-2010s Stitchfix also [celebrated](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) single-threaded ownership, at least on their [data team](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/). Ironically, Uber's approach to data work over those same years was far more siloed. While in the early days data scientists wrote their own pipelines, built their own models, ran their own experiments, in the years leading up to 2020 teams had been built to specifically own data engineering, ML implementation, experimentation platform.
+Mid-2010s Stitchfix also [celebrated](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) single-threaded ownership, at least on their [data team](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/). Ironically, Uber's approach to data work over those same years was far more siloed. While in the early days data scientists wrote their own pipelines, built their own models, ran their own experiments, in the years leading up to 2020 teams had been built to specifically own data engineering, ML implementation, experimentation.
 
 I still see both approaches frequently. I still gravitate toward the one that encourages ownership. 
 
