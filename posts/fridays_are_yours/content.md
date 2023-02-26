@@ -35,7 +35,7 @@ Some stats on what the first 3 months at Black Crow have actually looked like [[
 - I've done some form of writing on 12 Fridays. 
 - I've read 10 research papers (this doesn’t include blog posts or summaries from publications like [Last Week in AI](https://lastweekin.ai), which I have an easier time fitting in during a normal day).
 - It appears I’ve pushed code only 3 times, but I’ve also pushed code on 6 Saturdays, which (knowing myself) implies I probably wrote code on closer to 9 Fridays.
-- I've gone to 9 doctor/dentist/etc appointments (having a day off when doctors are still working made scheduling this much easier!).
+- I've gone to 9 doctor/dentist/etc appointments (having a day off when doctors are still working made scheduling this much easier).
 - I've spent the day on an airplane 3 times (usually a morning flight, so I can actually have dinner with the people I'm visiting!).
 - I've gone skiing 3 times.
 
@@ -57,4 +57,4 @@ My colleague Kelsey [has written](https://www.linkedin.com/feed/update/urn:li:ac
 While I am mentioning Kelsey: Kelsey is one of those people who makes me realize, "Black Crow really cares to [do things well](../../pages/snippets/focus_on_one_thing_land_it/)." If you want to go through a recruiting process that truly prioritizes the candidate experience, check out our [open roles](https://jobs.lever.co/blackcrow) :) 
 
 #### [4]
-Borrowed from the tagline of [Happier in Hollywood](https://happierinhollywood.com/), a guilty pleasure podcast
+Borrowed from the tagline of [Happier in Hollywood](https://happierinhollywood.com/)
