@@ -1,6 +1,6 @@
 <!--
-.. date: 2022-11-03:00 UTC-07:00
-.. tags: sabbatical
+.. date: 2023-02-25:00 UTC-07:00
+.. tags: jobs, startups
 -->
 
 # "Fridays are yours"
@@ -9,13 +9,15 @@ I've been [working at Black Crow AI](../ml_products_today_tomorrow/) for about 3
 1. What's it really like working at an early-stage startup? (Or, if they already work at an early-stage startup: *are you surviving the transition?*)
 2. Is the four-day work week real?
 
-#1 deserves its own post, and will get one. Sneak peak: I'm loving it, it's hard, it's like nothing I've done before and yet I think my past experience set me up well to [excel at] this. It helps that I picked a company full of experienced startup leaders who are open about the challenges we are all facing and invest time in supporting one another.
+#1 deserves its own post, and will get one. Sneak peak: I'm loving it, it's hard, it's like nothing I've done before and yet I think my past experience set me up well. It helps that I joined a company full of experienced startup leaders who are open about the challenges we are all facing and invest time in supporting one another.
 
-#2 feels particularly timely to discuss right now, however, given the recent wildfire on social media surrounding [the UK's 4-day workweek study](https://static1.squarespace.com/static/60b956cbe7bf6f2efd86b04e/t/63f3df56276b3e6d7870207e/1676926845047/UK-4-Day-Week-Pilot-Results-Report-2023.pdf). Short answer: yes, it's real, and my experience lines up pretty well with many insights from the study. In addition to reporting on the number of companies that decided to continue with the 4-day week after the end of the trial period (30% permanently, 92% on some level), the authors detail benefits felt by both corporations and employees. The employee discussion focuses primarily on measures of health (stress, burnout, anxiety, fatigue, sleep) and work-life balance (relationships, time management with outside responsibilities). 
+#2 feels particularly timely to discuss right now, however, given the recent wildfire on social media surrounding [the UK's 4-day workweek study](https://static1.squarespace.com/static/60b956cbe7bf6f2efd86b04e/t/63f3df56276b3e6d7870207e/1676926845047/UK-4-Day-Week-Pilot-Results-Report-2023.pdf). 
+
+Short answer: yes, it's real, and my experience lines up pretty well with many insights from the study. Black Crow’s version of the 4-Day week is to say “Fridays are yours.” It’s a promise to never demand anything of an employee outside of Monday-Thursday, and it’s how 32% of companies in the study decided to approach the 4-day week. In addition to reporting on the number of companies that decided to continue with the 4-day week after the end of the trial period (30% permanently, 92% on some level), the authors detail benefits felt by both corporations and employees. The employee discussion focuses primarily on measures of health (stress, burnout, anxiety, fatigue, sleep) and work-life balance (relationships, time management with outside responsibilities). 
 
 Long answer: while all of this resonates with me, it also doesn't capture my full experience. 
 
-In addition to "life admin" and finding more time to enjoy my friends, family, and hobbies, I use my Fridays to maintain a wider view on my field that is critical for being an effective leader. I can't imagine doing my job well without some version of this time available to me. Anyone who is head of their department is responsbile [not just for day-to-day operations but setting the vision for the future](../../pages/snippets/view_your_job_as_a_matrix/). It's impossible to do that when you're only thinking about what you're neck-deep in today. Effective leaders find ways to stay on top of the broader industry and bring those insights into their jobs. [[2]](#2)
+In addition to "life admin" and finding more time to enjoy my friends, family, and hobbies, I use my Fridays to maintain a wider view on my field that is critical for being an effective head of data. I can't imagine doing my job well without some version of this time available to me. Anyone who is head of their department is responsbile [not just for day-to-day operations but setting the vision for the future](../../pages/snippets/view_your_job_as_a_matrix/). It's impossible to do that when you're only thinking about what you're neck-deep in today. Effective leaders find ways to stay on top of the broader industry and bring those insights into their jobs. [[2]](#2)
 
 At Rent the Runway, my most successful pattern was to read papers and listen to relevant podcasts during my commute. At Black Crow, I allocate time on Fridays for this instead. My Friday template looks like this:
 - Take the dog out and then head straight for a nearby coffee shop, switching up my location to put my brain in a different mode. In these most creative morning hours, I write — a mix of the types of things that show up in my [snippets](../../pages/snippets/) as well as journal exercises and creative pieces.
