@@ -36,12 +36,12 @@ Some stats on what the first 3 months at Black Crow have actually looked like [[
 - I've read 10 research papers (this doesn’t include blog posts or summaries from publications like [Last Week in AI](https://lastweekin.ai), which I have an easier time fitting in during a normal day).
 - It appears I’ve pushed code only 3 times, but I’ve also pushed code on 6 Saturdays, which (knowing myself) implies I probably wrote code on closer to 9 Fridays.
 - I've gone to 9 doctor/dentist/etc appointments (having a day off when doctors are still working made scheduling this much easier).
-- I've spent the day on an airplane 3 times (usually a morning flight, so I can actually have dinner with the people I'm visiting!).
-- I've gone skiing 3 times.
+- I've spent the day on an airplane 3 times (and I’ve been able to take morning flights, so I can actually have dinner with the people I'm visiting!).
+- I've gone skiing 3 times ⛷️ nothing better than fresh powder and beating the weekend crowd.
 
 Some things are harder to track — I take notes on everything I read, but don't necessarily date them, so while I'd estimate I've done some reading nearly every week, I can't say for sure. Similarly, I schedule my workouts most weeks, but not always, so while I feel like I've done something active and enjoyable every week, I might not actually have 100% coverage.
 
-Overall, I look at this list and feel so grateful to have this time. Even without the statistics in front of me, I would assert without question that this change has made me happier, healthier, saner, more creative, more successful, and more productive [[4]](#4). 
+Overall, I look at this list and feel so grateful to have this time, and I firmly believe it contributes to Black Crow getting my best at work. Even without the statistics in front of me, I would assert without question that this change has made me happier, healthier, saner, more creative, more successful, and more productive [[4]](#4). 
 
 One stat from the UK study that stands out to many people is that, for 15% of participating employees, no amount of money could entice them to return to a 5-day work week. I'm not sure I fall in that camp. I am however certain that with this understanding of how much more effective I am when I'm making time for broader learning and growth, I will always aim to make that an intentional part of how I structure each week. For now, the 4-day week makes that very straightforward to accomplish.
 
