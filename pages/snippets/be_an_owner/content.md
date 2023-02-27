@@ -1,6 +1,6 @@
 # Be an owner not a renter (or a hoarder)
 
-In 2015, <!--nearly all of Uber's global corporate employees convened in Las Vegas to celebrate the company hitting a 10 billion dollar revenue run rate [[0]](#0). In a stadium filled with mostly-hungover mostly-twenty-somethings, -->Travis Kalanick unveiled Uber's fourteen cultural values. One of those original values was "Be an owner, not a renter." It meant committing to seeing a project through, to doing what it took to get it over the line. I connected with this statement immediately. 
+In 2015, <!--nearly all of Uber's global corporate employees convened in Las Vegas to celebrate the company hitting a 10 billion dollar revenue run rate [[0]](#0). In a stadium filled with mostly-hungover mostly-twenty-somethings, -->Travis Kalanick unveiled Uber's fourteen cultural values [[1]](#1). One of those original values was "Be an owner, not a renter." It meant committing to seeing a project through, to doing what it took to get it over the line. I connected with this statement immediately. 
 
 When I first graduated college, I took what I thought was my dream job, consulting on environmental and energy projects. I left within six months for a startup and never looked back. I didn't want to give people advice on how to do something, I wanted to build things myself. I wanted to leave inky fingerprints, not a wafting scent in the air [[2]](#2).
 
