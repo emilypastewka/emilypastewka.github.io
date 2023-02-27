@@ -13,7 +13,7 @@ Somehow, reframing this need for support as "transactive memory" has helped rece
 As described by Wikipedia:
 > This concept proposed that when two individuals spend a lot of time around each other and work together, they create a shared store of knowledge between the members.
 
-To me, this essentially defines an [efficient](../view_your_job_as_a_matrix/), trust-based, [ego-less](../humility_is_key_to_collaboration/) relationship. What's not to love? And how can I intentionally make better use of this magic? I still want to learn and grow at work, so this doesn't imply that I need to learn to "stay in my lane." It also doesn't imply that I should feel free to show up at meetings totally unprepared, assuming someone else has got things fully under control. My perspective will still differs from others' and thereby [adds value](https://greatergood.berkeley.edu/article/item/how_diversity_makes_us_smarter). 
+To me, this essentially defines an [efficient](../view_your_job_as_a_matrix/), trust-based, [ego-less](../humility_is_key_to_collaboration/) relationship. What's not to love? And how can I intentionally make better use of this magic? I still want to learn and grow at work, so this doesn't imply that I need to learn to "stay in my lane." It also doesn't imply that I should feel free to show up at meetings totally unprepared, assuming someone else has got things fully under control. My perspective will still differ from others' and thereby [adds value](https://greatergood.berkeley.edu/article/item/how_diversity_makes_us_smarter). 
 
 <!-- TODO link sth around trust, around magic, around staying in your lane, around different perspectives -->
 
