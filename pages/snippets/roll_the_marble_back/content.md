@@ -4,7 +4,7 @@ Picture sitting behind a desk. Someone walks in the room, sits down across from 
 
 Marbles are problems. The desk is the space you have to control which problems end up being your problems, and which ones you observe from a distance. 
 
-If you lead a team, ensuring individuals are unblocked is a big part of the job. But with too many marbles in your lap, it's hard to stand up and get moving. And, if you hoard all the marbles, how will your team learn how to deal with them? [[2]](#2)
+If you lead a team, ensuring individuals are unblocked is a big part of the job. But [with too many marbles in your lap, it's hard to stand up and get moving](../view_your_job_as_a_matrix/). And, [if you hoard all the marbles, how will your team learn how to deal with them](../be_an_owner/)? [[2]](#2)
 
 Sometimes, the best way to support your team is to tilt your desk. Roll the marble back before it can reach you. This doesn't mean leaving your team out to dry, but rather coaching them on how to deal with their own bag of marbles. Tip the desk back gently, degree by degree, question by question.
 
