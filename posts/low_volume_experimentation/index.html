@@ -72,17 +72,18 @@
                   <!-- <p class="commentline"></p> -->
                   <!-- <p class="sourceline"><a href="index.rst" class="sourcelink">Source</a></p> -->
                </div>
-               </header>
+               <!-- </header> -->
                <!-- <div id="article" class="e-content entry-content" itemprop="articleBody text"> -->
                 <br>
                 <div id="article" class="post-content" itemprop="articleBody text">
-                  <zero-md id="md" src="content.md"> no-shadow</zero-md>    
+                  <!-- Render zero-md into light dom per zero-md mathjax recipe -->
+                  <zero-md id="md" src="content.md" no-shadow></zero-md>    
                   <!-- Load the MathJax library AFTER markdown is rendered -->
                   <script>
                      md.addEventListener('zero-md-rendered', () => {
-                     let el = document.createElement('script')
-                     el.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js'
-                     document.head.appendChild(el)
+                        let el = document.createElement('script')
+                        el.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js'
+                        document.head.appendChild(el)
                      })
                   </script>          
                </div>
