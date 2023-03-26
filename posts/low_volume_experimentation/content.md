@@ -2,11 +2,6 @@
 .. date: 2023-03-25
 .. tags: experimentation, technical
 -->
-```YAML
----
-useMath: true
----
-```
 
 # Low-volume experimentation
 
