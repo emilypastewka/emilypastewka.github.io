@@ -35,16 +35,16 @@ There is plenty of literature on how to handle the low sample size problem [[5]]
 ### 0 Run the experiment for a longer period of time
 I don't use the number zero here because I'm a dogmatic computer scientist, but rather because this bucket of suggestions has practically zero value. 
 
-Let's ignore practicality for a second. The logic behind this suggestion is the idea that running the experiment for a longer period of time will yield a greater volume of observations, i.e. higher sample size ($N$). Both of the problems we identified with low sample size disappear!
+Let's ignore practicality for a second. The logic behind this suggestion is the idea that running the experiment for a longer period of time will yield a greater volume of observations, i.e. higher sample size ($N$). The problem we identified with low sample size disappears!
 
-Practically, however, this isn't often a solution to the problem. For starters, $N$ often increases sublinearly with time. Consider for example running an experiment on a population of website visitors. When the experiment begins, we bucket each visitor who arrives into treatment or control. When a visitor arrives a second time (or third, etc), they are not re-bucketed and their new visit doesn't increase our sample size. The cumultive $N$ defines the number of _unique_ visitors, so if we see $n$ visitors per week and the visitor return rate is $x$%, we add $n$ visitors in week 1 and then $(1-x)^t n$ visitors for each week $t$ thereafter. There is a decreasing return on investment with time.
+Practically, however, this isn't often a solution to the problem. For starters, $N$ often increases sublinearly with time. Consider for example running an experiment on a population of website visitors. When the experiment begins, we bucket each visitor who arrives into treatment or control. When a visitor arrives a second time (or third, etc), they are not re-bucketed and their new visit doesn't increase our sample size. The cumultive $N$ defines the number of _unique_ visitors, so if we see $n$ visitors per week and the visitor return rate is $x$, we add $n$ visitors in week 1 and then $n(1-x)^t$ visitors for each week $t$ thereafter. There is a decreasing return on investment with time.
 
 In addition to the decreasing rate of population gain, the longer period of time introduces risk to the validity of the experiment. While we always want to run an experiment long enough to avoid novelty effects and seasonality, running the experiment for too long increases the probability of leakage (a user being exposed to both treatment and control) and may prohibit us from running other experiments that seek to move the same metric for the same population [[6]](#6).
 
 ## 1 Variance reduction
 The first place I look when aiming to derive meaningful results from an experiment run with a relatively low volume of data is at my target metrics: can I reduce their variance? Recall the equation for the test statistic: when $\sigma$ is lower, $Z$ is higher. 
 
-A great [post](https://craft.faire.com/how-to-speed-up-your-a-b-test-outlier-capping-and-cuped-8c9df21c76b) from the data team at Faire covers several useful approaches for variance reduction, including removing outliers and leveraging CUPED (Controlled-experiment Using Pre-Experiment Data).
+A great [post](https://craft.faire.com/how-to-speed-up-your-a-b-test-outlier-capping-and-cuped-8c9df21c76b) from the data team at Faire covers several useful approaches for variance reduction, including removing outliers and leveraging [CUPED (Controlled-experiment Using Pre-Experiment Data)](https://exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf).
 
 ## 2 Proxy metrics
 If it's impossible to adequately reduce the variance of the target metric, the next approach I look to is finding a more stable proxy metric to measure in place of or in addition to my target metric. 
