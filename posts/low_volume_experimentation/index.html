@@ -23,10 +23,17 @@
       <meta property="article:published_time" content="2023-03-25">
       <meta property="article:tag" content="experimentation">
       <meta property="article:tag" content="technical">
-
-      <!-- MathJax is the flexible option -->
-      <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
+      <!-- configure mathjax settings -->
+      <script>
+         window.MathJax = {
+           tex: {
+             inlineMath: [
+               ['$', '$'],
+               ['\\(', '\\)']
+             ]
+           }
+         }
+       </script>
    </head>
    <body>
       <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -66,7 +73,17 @@
                 <br>
                 <div id="article" class="post-content" itemprop="articleBody text">
                   <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
-                  <zero-md src="content.md"></zero-md>                  
+                  <zero-md src="content.md"></zero-md>    
+                  <script>
+                     window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                           ['$', '$'],
+                           ['\\(', '\\)']
+                        ]
+                        }
+                     }
+                  </script>              
                </div>
                <aside class="postpromonav">
                   <nav>
