@@ -74,16 +74,14 @@
                   </script>
                   <script async src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
                   <zero-md src="content.md"></zero-md>    
+                  <!-- Load the MathJax library AFTER markdown is rendered -->
                   <script>
-                     window.MathJax = {
-                        tex: {
-                        inlineMath: [
-                           ['$', '$'],
-                           ['\\(', '\\)']
-                        ]
-                        }
-                     }
-                  </script>              
+                     app.addEventListener('zero-md-rendered', () => {
+                     let el = document.createElement('script')
+                     el.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js'
+                     document.head.appendChild(el)
+                     })
+                  </script>            
                </div>
                <aside class="postpromonav">
                   <nav>
