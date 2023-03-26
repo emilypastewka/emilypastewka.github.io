@@ -5,6 +5,8 @@
 
 # Low-volume experimentation
 
+$a_2 + b^2 = d^e $
+
 It's finally here, a technical post! [[1]](#1)
 
 Recently, I've been challenged by running experiments with low data volume. Data science as we know it is built on a foundation of Big Data<sup>TM</sup> because large volumes of data enable researchers and analysts to explain a large percentage of variation in the metrics they care about. A wide & dense dataset provides more possible explanatory features; a deeper dataset with more observations provides more examples to generate confidence in relationships drawn between features and outcomes.
