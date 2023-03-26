@@ -26,13 +26,6 @@
 
       <!-- MathJax is the flexible option -->
       <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-      <!-- KaTex is more familiar -->
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css" integrity="sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0" crossorigin="anonymous">
-      <!-- The loading of KaTeX is deferred to speed up page rendering -->
-      <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js" integrity="sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4" crossorigin="anonymous"></script>
-      <!-- To automatically render math in text elements, include the auto-render extension: -->
-      <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
-         onload="renderMathInElement(document.body);"></script>
 
    </head>
    <body>
@@ -74,17 +67,7 @@
                 <div id="article" class="post-content" itemprop="articleBody text">
                   <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
                   <zero-md src="content.md"></zero-md>
-
-The parameters of such an experiment are as follows:
-- \(N) = sample size, the size of the population in the experiment (treatment and control groups). When we run an experiment with low data volume, the phrase we use is "low sample size."
-- \(mu)  = the mean value of the target metric in the control group (standing in for the mean value of the target metric for the full population without treatment)
-- $\bar{x}$ = the mean value of the target metric in the treatment group
-- $\sigma = \frac{\sum{(x_{i} - \mu)}^2}{N}$ = the standard deviation of the target metric across the full population, measured over a time period prior to the start of the experiment
-- $Z = \frac{\bar{x} - \mu}{\frac{\sigma}{\sqrt{n}}}$ = a commonly used test statistic, when $\sigma$ is known and $N>30$. It tells us the number of standard deviations that a sample mean deviates from the population mean in a standard normal distribution.
-- $\alpha$ = significance level. We set $\alpha$ at a specific level to control the Type 1 error rate, or the probability of erroneously rejecting null hypothesis when it is correct. A higher value of $\alpha$ denotes a greater willingness to incorrectly reject the null hypothesis when it is true.
-- $\beta$ = the experiment's power. We set $\beta$ to a specific level to control the probability of encountering a Type 2 error, i.e. failing to reject an incorrect null hypothesis and missing a true impact. A higher value of $\beta$ denotes a greater willingness to accept the null hypothesis when it is untrue. 
-- $p$ = "p value," the probability of observing a test statistic at least as large as we have, conditional on our null hypothesis that there is no actual difference between the treatment and control metrics. If $p < \alpha$, we say the results of our experiment are statistically significant at a level of $1-\alpha$. 
-
+                  
                </div>
                <aside class="postpromonav">
                   <nav>
