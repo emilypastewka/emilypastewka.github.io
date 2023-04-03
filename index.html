@@ -40,7 +40,15 @@
           $("#time_off_nov2022").load("/posts/time_off_nov2022/index.html #article"); 
           </script> -->
           <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script> 
-          <zero-md src="posts/low_volume_experimentation/content.md"></zero-md>
+          <zero-md src="posts/low_volume_experimentation/content.md">no-shadow</zero-md>    
+          <!-- Load the MathJax library AFTER markdown is rendered -->
+          <script>
+             md.addEventListener('zero-md-rendered', () => {
+                let el = document.createElement('script')
+                el.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js'
+                document.head.appendChild(el)
+             })
+          </script>
 
           <!-- <h1 class="p-name entry-title" itemprop="headline name"><a href="posts/web3_feb2022/" class="u-url">Web3: 3D printing at worst, solar at best</a></h1>
           <div id="web3_feb2022"></div>
