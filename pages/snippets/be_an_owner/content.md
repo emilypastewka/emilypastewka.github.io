@@ -9,14 +9,14 @@ When I first graduated college, I took what I thought was my dream job, consulti
 you didn't say "not my job," you asked "how do I do that?" It meant you  -->
 
 
-Mid-2010s Stitchfix also [celebrated](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) single-threaded ownership, at least on their [data team](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/). Ironically, Uber's approach to data work over those same years was far more siloed. While in the early days data scientists wrote their own pipelines, built their own models, ran their own experiments, in the years leading up to 2020 teams had been built to specifically own data engineering, ML implementation, experimentation.
+Mid-2010s Stitchfix also [celebrated](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) single-threaded ownership [[3]](#3), at least on their [data team](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/). Ironically, Uber's approach to data work over those same years was far more siloed. While in the early days data scientists wrote their own pipelines, built their own models, ran their own experiments, in the years leading up to 2020 teams had been built to specifically own data engineering, ML implementation, experimentation.
 
 I still see both approaches frequently. I still gravitate toward the one that encourages ownership. 
 
 A "full-stack" data scientist who is given real ownership over his/her work will be proud and excited when that work drives impact, when s/he has measured tangible results. These individuals are not just transacting time for money, "renting" their jobs — they are driven by outcomes. They won't wait on someone else to provide or clean data, won't ask someone else to put their model in production or measure its impact through an A/B test. They will learn and do what it takes to make the project they own a success.
 
 Empowerment doesn't work if "ownership" is just nice corporate lingo. It needs to be made true via the setup of the organization and the freedom data scientists are given across the stack. 
-- Project expectations should be as clearly defined as roles are broad. [[3]](#3)
+- Project expectations should be as clearly defined as roles are broad. [[4]](#4)
 - A good set of data tools, a platform designed & maintained for the use of the data team, goes a long way to enabling safe experimentation. 
 - [Collaboration](../humility_is_key_to_collaboration/), too, remains a part of the job. Rarely does somebody start a project knowing how to do every step on their own. [Teams must be built so that individuals are able and encouraged to support one another, learning and teaching](../build_teams_of_t_shapes/).
 
@@ -42,6 +42,9 @@ No, of course most of us couldn't remember them all, even back then. When Dara j
 This got a lil weird but I still like it.
 
 #### [3]
+Twilio CEO Jeff Lawson's [Ask Your Developer](https://www.askyourdeveloper.com/) also contains a compelling chapter called "Small Teams and Single-Threaded Leaders." The premise is not exactly the same: the ownership teams feel is different than the ownership individuals feel. But it's a good read. I particularly like the dive into codebase separation as a tangible example of creating space to focus, highlight how far it is from a passive act or a mere voiceover.
+
+#### [4]
 The question of whether to hire full-stack data practitioners is tightly related to the question of whether to build a centralized team or set of embedded teams. A centralized team can cluster practitioners with the same specialized skills, who can then share knowledge and become excellent at their chosen discipline. Embedded teams can be a collection of individuals who specialize, but often work out better when they are composed of generalists. I have long thought of the answer to the embedded vs. centralized question as being a function of time, a pendulum swinging between opposing pain points. An additional constraint is who is on your team and what they know.
 
 <!-- At Rent the Runway, we built teams around job functions instead of domain knowledge. This partially shifted in late 2022.
