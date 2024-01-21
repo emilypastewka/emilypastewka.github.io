@@ -11,16 +11,18 @@ About a year ago one of my good friends and favorite past managers asked if I'd 
 Asking "why was I invited to join this group?" helps me recognize what I should keep doing if I want to continue seeing interesting opportunities open up. [[2]](#2) In this case:
 - As head of the data function for several years at a number of different companies, I've been in the buyer's seat for all sorts of data software decisions, giving me a lot of opportunity to think about why I prefer one vendor over another and in what situations, to understand pricing, to weigh in on roadmaps.
 - I worked and kept in touch with a number of the great people who founded this group. The Uber data diaspora is real.
-- I clearly care about startups. I was working for one at the time (Black Crow AI), I've sought and given advice about tools I needed and [tools](https://www.statsig.com/testimonials?source=collection_about----------------------------------------) I [loved](https://www.prefect.io/blog/rtr-struts-the-data-runway-with-prefect) throughout my tenure as a data leader, I am very thoughtful about build vs. buy, heck, I even married a founder who went through YC and saw his first exit after a ten-year grind. I have a lot of respect and love for the people putting the grueling hours in to bring useful, delightful products to life, and a lot of expertise on those specifically targeted at data teams.
+- I clearly care about startups. I was working for one at the time (Black Crow AI), I've sought and given advice about [tools](https://www.statsig.com/testimonials?source=collection_about----------------------------------------) I needed and tools I [loved](https://www.prefect.io/blog/rtr-struts-the-data-runway-with-prefect) throughout my tenure as a data leader, heck, I even married a founder who went through YC and saw his first exit after a ten-year grind. I have a lot of respect and love for the people putting the grueling hours in to bring useful, delightful products to life, and a lot of expertise on those specifically targeted at data teams.
 
 ## Why say yes?
-InvestInData is not most people's full-time gig, so the decision wasn't about leaving an existing job, but [my time is still scarce](../../pages/snippets/time_is_currency/content.md). InvestInData takes up between one and ten hours per week for most people, depending where we are in an investment cycle. Members are expected to always be sourcing, and constantly checking the shared Slack. There is also a quarterly investment cadence, which consists of synchronous meetings to select candidate companies, hear pitches, and do due diligence on companies we're considering investing in. It's not huge, but it's both constant and spiky — nontrivial to manage on top of a full-time leadership role.
+InvestInData is not most people's full-time gig, so the decision wasn't about leaving an existing job, but [my time is still scarce](../../pages/snippets/time_is_currency/content.md). InvestInData takes up between one and ten hours per week for most people, depending where we are in an investment cycle. Members are expected to always be sourcing, and active on Slack. There is also a quarterly investment cadence, which consists of synchronous meetings to select candidate companies, hear pitches, and organize due diligence on companies in which we're considering investing. It's not huge, but it's both constant and spiky — nontrivial to manage on top of a full-time leadership role.
 
 I accepted for a number of reasons. 
 
 **Edge**
 
-First, the pitch resonated with me. I've had VCs reaching out to me for years asking what I thought of company X, idea Y — why shouldn't I be putting that knowledge to use beyond my own software purchasing decisions and advice to my network? GGV Capital, who help run the group, have been successfully running a similar group for CISOs for a number of years, so there was evidence that this could work. 
+First, the pitch resonated with me. I've had VCs reaching out to me for years asking what I thought of company X, idea Y — why shouldn't I be putting that knowledge to use beyond my own software purchasing decisions and advice to my network? 
+
+GGV Capital, who help run the group, have been successfully running a similar group for CISOs for a number of years, so there was evidence that this could work. 
 
 **Impact & engagement with startups**
 
@@ -36,19 +38,19 @@ In addition to discussing startups & their products, the IID community seemed li
 
 **Learning a new discipline**
 
-Finance has always been a tangential career interest of mine [[4]](#4), and Private Equity in particular becomes more and more interesting as time passes. Intellectually, I enjoy considering the questions of who decides which companies get a shot, and how? Watching cycles of tech development, money, and media I've found that turns of events that would've bewildered a younger me now frequently make sense.  It's also struck me increasingly that [each career choice I make is a big bet](../valuations_mar2022/content.md), whereas VCs and Angels get to spread their risk out.
+Finance has always been a tangential career interest of mine [[4]](#4), and private equity in particular becomes more and more interesting as time passes. Who decides which companies get a shot, and how? Watching cycles of tech development, money, and media I've found that turns of events that would've bewildered a younger me now frequently make sense.  It's also struck me increasingly that [each career choice I make is a big bet](../valuations_mar2022/content.md), whereas financial investors spread their risk out.
 
 I've always loved finding ways to test into things before jumping in fully. IID might help me learn how a background in tech and skills with data translate to this related field.
 
 
-## What have I learned in this year?
-Having spelled out my [investment thesis](../../pages/snippets/be_hypothesis_driven/content.md), how is it going?
+## What have I learned in a year?
+Having spelled out my [investment thesis](../../pages/snippets/be_hypothesis_driven/content.md), how's it going?
 
 **Edge**
 
-I have no evidence yet whether IID does or doesn't have an edge on the broader VC community when it comes to data tooling, since there's no expectation of any financial return after just one year: IID invests in mostly pre-seed through Series A companies, so exits aren't expected for years to come. I have however observed strong leading indicators: founders with top-tier backgrounds and existing investments from big-name VCs still come to IID because we offer something meaningful; at least one company the group invested in before I joined appears to be growing very quickly. 
+I have no evidence yet whether IID does or doesn't have an edge on the broader VC community when it comes to data tooling — IID invests in mostly pre-seed through Series A companies, so exits aren't expected for years to come. I have however observed strong leading indicators: founders with top-tier backgrounds and prior investments from big-name VCs still come to IID because we offer something meaningful; at least one company the group invested in before I joined appears to be growing very quickly. 
 
-David and I decided that we'd invest a fixed amount in each company the group agrees on, in line with the principle on which the group was founded. Despite that agreement, I sat out one investment early on that didn't land with me. I regret going against my investment principle. I don't plan to do so again. 
+David and I decided that we'd invest a set amount in each company the group agrees on, in line with the principle on which the group was founded. Despite that agreement, I sat out one investment early on that didn't land with me. I regret going against my investment principle. I don't plan to do so again. 
 
 **Impact & engagement with startups**
 
@@ -61,21 +63,21 @@ Seeing my network and knowledge [multiplying value](https://thewisemangroup.com/
 
 **Broaden view of landscape**
 
-As a data leader, I'm always looking for new tools relevant to my company. No question, IID has helped me find more of them with less effort, and make more informed decisions about which will suit my needs and tradeoffs on different dimensions. 
+I'm always looking for new tools that may be useful to my company or my [side projects](../../pages/snippets/engineering_leaders_do_their_jobs_better_when_their_technical_skills_remain_relevant/content.md). No question, IID has helped me find more of them with less effort, and make more informed decisions about which will suit my needs and tradeoffs on different dimensions. 
 
-IID has also pushed me to continue [spending time with tools and technologies](../../pages/snippets/engineering_leaders_do_their_jobs_better_when_their_technical_skills_remain_relevant/content.md) outside of my direct needs at work. Exposure to such a wide range of upcoming tools & technologies helps me think about [what the future may hold, and how that may impact my work](../ml_products_today_tomorrow/content.md).
+IID has also pushed me to continue spending time with tools and technologies outside of my direct needs at work. Exposure to such a wide range of upcoming tools & technologies helps me think about [what the future may hold, and how that may impact my work](../ml_products_today_tomorrow/content.md).
 
-One of the biggest themes of the year has been — no surprise — generative AI. The entire world is trying to figure out the potential for this technology, and data leaders are expected to lead the way for their companies. IID has vetted companies seeking to apply generative AI in a multitude of ways, but especially focused on the data stack: can end users talk directly to their data, bypassing a need to write SLQ? might data engineers avoid ever writing a custom pipeline again? how can we as genAI developers most easily work with open source models? engineer prompts? avoid hallucinations? Listening to global experts on generative AI is one thing; getting to debate how to harness its power with technical experts is far better.
+One of the biggest themes of the year has been — no surprise — generative AI. The entire world is trying to figure out the potential for this technology, and data leaders are expected to lead the way for their companies. IID has vetted companies seeking to apply generative AI in a multitude of ways, but especially focused on the data stack: can end users talk directly to their data, bypassing a need to write SLQ? might data engineers avoid ever writing a custom pipeline again? how can we as genAI developers most easily work with open source models? engineer prompts? avoid hallucinations? Listening to global experts on generative AI is one thing; getting to debate how to harness its power with this group of technical experts is far better.
 
 **Peers**
 
-Since taking on larger leadership roles, I've been struck by how much truth there is in the saying ["it's lonely at the top,"](../../pages/snippets/leadership_is_a_burden/content.md) and I started relying increasingly on my network outside of my current job. IID is the best version of such a network I've yet had access to.
+IID is the best network of data leaders I've yet had access to.
 
-Having another Slack to keep up with can be tiring, but it keeps me in close and constant contact with founders of our portfolio companies, the GGV team, and the group of Angels. We share news about venture capital, startups, incumbents, and technical advances; we seek input from one another on vendor decisions and how we approach challenges at work; we deep dive on trends we uncover, sometimes even going off Slack to run deep-dive conversations on particularly hot topics. 
+Having another Slack to keep up with can be tiring, but it keeps me in close and constant contact with founders of our portfolio companies, the GGV team, and the group of Angels. We share news about venture capital, startups, incumbents, and technical advances; we seek input from one another on vendor decisions and how we approach challenges at work; we deep dive on hot topics and emerging trends. 
 
 At times, the group can also make me envious. I'm Head of Data at a company fairly early on our data journey. We are not a pure tech company, and data is a key support to critical day-to-day operations. It's very different from past roles, where I've led cutting edge machine learning engineering and product groups. While I know I'm building toward that at my current company, it can be tough to see others deep in the weeds of the problems I'm itching to tackle while I steadily build my team's foundations.
 
-That said, I also see within this group that no single data leader is actively working on every new hot technology, and there are a number of people, like me, are more focused on the fundamentals of data platforms and semantic layers than they are on generative AI or distributed data processing. The reality of the head of data role is that the less sexy pieces of the job are critical to [land](../../pages/snippets/focus_on_one_thing_land_it/content.md) [[5]](#5). Other roles might be more fun.
+That said, I also see within this group that no single data leader is actively working on every new hot technology, and there are a number of people, like me, are more focused on the fundamentals of data platforms and semantic layers than they are on generative AI or distributed data processing. The reality of the head of data role is that the less sexy pieces of the job are critical to [land](../../pages/snippets/focus_on_one_thing_land_it/content.md) [[5]](#5).
 
 **Learning a new discipline**
 
