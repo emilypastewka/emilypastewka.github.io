@@ -14,6 +14,4 @@ I sat down and synthesized the key takeaways from all these conversations, and f
 * The climate tech future
 
 These topics are of course interrelated, but writing about them all together would result in one very long post, so I'll be sharing four. I hope they serve as a resource for anyone who identifies as climate-tech-curious.
-
-Index:
-* [The Wilderness Year](../the_wilderness_year/)
+1. [The Wilderness Year](../the_wilderness_year/)
