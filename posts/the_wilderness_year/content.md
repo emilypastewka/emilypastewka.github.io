@@ -47,9 +47,11 @@ Once I realized that leaving climate had been a failed experiment, I started to 
 Someone asked me recently if I actually feel the impact of what I'm doing every day, or if it's just like any other job. I shared this:
 >My first day at Palmetto, the company all hands was about sales, and my gut reaction was, "this is not fun." And then I remembered: we sell solar. Every sale is equivalent to nearly 5,000 kg fossil fuels unburned. 
 
-So yes, I spend a lot of time on standard business problems like sales. But I absolutely feel the impact every day. 
+So yes, I spend a lot of time on standard business problems like sales. But I also work with energy data, and interesting models developed by the national labs, and no matter what I'm doing, I feel the impact every day. 
 
-And on a really good day, I'm working directly with energy data, or thinking about problems far beyond solar. And that's what I'll get into in the next posts in this series.
+---
+
+This post is part of a series: [Back to My Roots in Cleantech](../back_to_my_roots_in_cleantech/)
 
 ---
 
@@ -82,4 +84,4 @@ If you look within 2 or 3 degrees of separation and still don't have that kind o
 - [Work On Climate](workonclimate.org) has an active Slack group
 
 #### [7] 
-My first job offer out of college was actually in solar, and I said no. At the time, it felt too risky, and that was a fair assessment. Solar had a rough ride for a long time. But just listen to one Ezra Klein episode on climate, or on China, and you'll hear the mix of frustration and optimism. [Solar radiation makes up 99.98% of the earth's energy budget](https://www.coursera.org/learn/renewable-energy-technology-fundamentals)! How can we possibly ignore it?
+My first job offer out of college was actually in solar, and I said no. At the time, [it felt too risky](../web3_feb2022/), and that was a fair assessment. Solar had a rough ride for a long time. But just listen to one Ezra Klein episode on climate, or on China, and you'll hear the mix of frustration and optimism. [Solar radiation makes up 99.98% of the earth's energy budget](https://www.coursera.org/learn/renewable-energy-technology-fundamentals)! How can we possibly ignore it?

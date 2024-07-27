@@ -45,6 +45,8 @@ Overall, I look at this list and feel so grateful to have this time, and I firml
 
 One stat from the UK study that stands out to many people is that, for 15% of participating employees, no amount of money could entice them to return to a 5-day work week. I'm not sure I fall in that camp. I am however certain that with this understanding of how much more effective I am when I'm making time for broader learning and growth, I will always aim to make that an intentional part of how I structure each week. For now, the 4-day week makes that very straightforward to accomplish.
 
+---
+
 #### [1]
 Which is the same amount of time I spent on my [sabbatical](../time_off_nov2022/). 🤯
 

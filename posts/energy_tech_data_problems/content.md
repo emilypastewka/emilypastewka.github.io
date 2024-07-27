@@ -5,7 +5,9 @@
 
 # Energy Tech Data Problems
 
-The intersection of climate technology and data has never been more critical. We have more data than ever to work with, and climate challenges are more pressing than ever. But climate tech is not a monolith, and exactly what data work looks like varies by sector. I'm most excited about [the energy side of climate tech](../rocket_ships/), and break it down further into 4 categories: Efficiency, Renewables, Electrification, and Grid Modernization. The businesses in each category have different types of data needs. This understanding of the space was key to the decision I made to join Palmetto, and I hope it helps others make their choices too. Working on climate is fundamentally valuable, and probably puts you on a team with great people. Working on problems that interest you, that harness your best abilities, is even better.
+The intersection of climate technology and data has never been more critical. We have more data than ever to work with, and climate challenges are more pressing than ever. But climate tech is not a monolith, and exactly what data work looks like varies by sector. I'm most excited about [the energy side of climate tech](../rocket_ships/), and break it down further into 4 categories: [Efficiency](#efficiency), [Renewables](#renewables), [Electrification](#electrification), and [Grid Modernization](#grid-modernization). I also think about [Picks & Shovels](#picks-and-shovels). The businesses in each of these five categories have different types of data needs.
+
+ This understanding of the space was key to the decision I made to join Palmetto, and I hope it helps others make their choices too. Working on climate is fundamentally valuable, and probably puts you on a team with great people. Working on problems that interest you, that harness your best abilities, is even better.
 
 ## Efficiency 
 Energy efficiency means, simply, using less energy. On its surface, it's sensible: if we use less energy, we don't need to burn as many fossil fuels. Companies in this space are developing less resource-intensive manufacturing processes ([37% of global energy use](https://www.iea.org/energy-system/industry)), building materials that better insulate and take advantage of the natural environment to reduce requirements for heating and cooling ([almost 25% of energy use worldwide](https://www.iea.org/reports/global-status-report-for-buildings-and-construction-2019)), and devices and appliances that use less energy, . They are also optimally routing traffic and goods to conserve fuel ([also about 25% of energy use worldwide](https://www.eia.gov/outlooks/ieo/pdf/transportation.pdf)) and nudging individuals to take energy-efficient actions. [[1]](#1)
@@ -40,11 +42,17 @@ These problems exist also at a smaller scale, with homeowners and building manag
 
 ## Picks and Shovels
 In addition to the 4 categories I talked through here, there are a huge number of companies developing tooling that climate tech companies rely on to succeed. Some of this is generic SaaS: at Palmetto, for instance, we've stood up a classic "modern data stack" of third-party tools. But there are also companies and research organizations developing climate-tech-specific data sources, APIs, and applications. Arcadia's acquisition of [Genability](https://www.genability.com/) has made them a reliable cornerstone of energy data infrastructure. 
-I'm excited to see what [Texture](https://www.texturehq.com/) does here, too — their aim is to be "Plaid for energy." [Pencil](https://www.pencilenergy.com/) and [Fordje](https://www.fordje.com/) aim to make it easier for climate tech companies to keep track of relevant regulations, which vary enormously by jurisdiction and change regularly. 
+I'm excited to see what [Texture](https://www.texturehq.com/) does here, too — their aim is to be "Plaid for energy." [Pencil](https://www.pencilenergy.com/) and [Fordje](https://www.fordje.com/) aim to make it easier for climate tech companies to keep track of relevant regulations, which vary enormously by jurisdiction and change regularly. These types of companies very likely hire for some of the most interesting data engineering jobs I've mentioned so far.
 
-Research labs, government institutions, nonprofits, and universities also develop technologies and datasets that are crucial to so much of what we build. Researchers at these institutions tend to build the deepest knowledge in the field, and as a result are well-connected throughout the industry. 
+Research labs, government institutions, nonprofits, and universities also develop technologies and datasets that are crucial to so much of what we build. Researchers at these institutions tend to develop the deepest knowledge in the field, and as a result are well-connected throughout the industry. 
 
 A final note: for-profit enterprises don't just work with the types of companies in this picks and shovels group. The energy space of today is highly collaborative. A solution in one area may require a partner doing totally different work to be fully realized. Wherever you plug in (_I had to!_), you're sure to learn about a wide swath of things discussed here. 
+
+---
+
+This post is part of a series: [Back to My Roots in Cleantech](../back_to_my_roots_in_cleantech/)
+
+---
 
 #### [1]
 It's tempting to put the sharing economy in this bucket. When I joined Uber, for example, I thought ridesharing would make car transit more efficient, but that didn't quite pan out. Similarly, Rent the Runway was a bet on reducing the impact of fast fashion, but investor demands made the double bottom line hard to hold — ultimately, we wanted people to conform to the cycles of fashion and buy, buy, buy. The sharing economy may be a better bet, but because it still follows the core tenets of consumerism, I remain skeptical here, too. I'm therefore omitting these spaces from the main text. If you believe there is still a path forward, you may be right, I may just be jaded.
@@ -53,13 +61,13 @@ It's tempting to put the sharing economy in this bucket. When I joined Uber, for
 I had a lot of fun working on [smart cities](https://www.cosmos-lab.org/experimentation/smart-city-intersections/) in grad school. The pace of tangible application was a little too slow for me to commit to the space full-time. Even autonomous vehicles are far behind expected schedule. But I'm bullish in the long run.
 
 #### [3]
-All the stats in this section come from the [CU Boulder Coursera on Renewable Energy Technology Fundamentals](https://www.coursera.org/learn/renewable-energy-technology-fundamentals/home/module/1). It's very grounded in hard science, not at all squishy. I highly recommend it. 
+All the stats in this section come from the [CU Boulder Coursera on Renewable Energy Technology Fundamentals](https://www.coursera.org/learn/renewable-energy-technology-fundamentals/home/module/1). It's very focused on hard science. I highly recommend it. 
 
 #### [4]
-An argument exists that we may soon be hitting a [limit](https://ph.qmul.ac.uk/sites/default/files/u75/Solar%20cells_environmental%20impact.pdf) on the potential for current technologies to convert the sun's rays into electricity, but this has recently been [empirically disproven](https://publica.fraunhofer.de/entities/publication/e2ce1921-d7b8-41df-a037-2d82e399d015/fullmeta), at least at small scale. 
+An argument exists that we may soon be hitting a [limit](https://ph.qmul.ac.uk/sites/default/files/u75/Solar%20cells_environmental%20impact.pdf) on the potential for current technologies to convert the sun's rays into electricity, but this has recently been [empirically disproven](https://www.nrel.gov/pv/cell-efficiency.html), at least at small scale. 
 
 #### [5]
-The animated data visualization near the top of [this NYT article](https://www.nytimes.com/interactive/2023/04/14/climate/electric-car-heater-everything.html) does a great job of showing where there is room left to run in electrifying US energy usage. Rewiring America's [Pace of Progress report](https://www.rewiringamerica.org/pace) 
+The animated data visualization near the top of [this NYT article](https://www.nytimes.com/interactive/2023/04/14/climate/electric-car-heater-everything.html) does a great job of showing where there is room left to run in electrifying US energy usage. Rewiring America's [Pace of Progress report](https://www.rewiringamerica.org/pace) is even more detailed.
 
 #### [6]
 You didn't ask for a 116 page paper on this but it's probably the sexiest thing happening in climate tech, so [here you go](https://iea.blob.core.windows.net/assets/3520710c-c828-4001-911c-ae78b645ce67/UnlockingthePotentialofDERs_Powersystemopportunitiesandbestpractices.pdf).
