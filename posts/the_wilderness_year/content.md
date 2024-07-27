@@ -1,6 +1,6 @@
 <!--
 .. date: 2024-03-17
-.. tags: jobs
+.. tags: career
 -->
 
 # The Wilderness Year
@@ -27,7 +27,7 @@ After wrapping up my sabbatical, my husband and I decided to take a second risk:
 The first few months were a tough adjustment. I indulged in long trail runs and hikes and powder days, but even as I made new friends who valued these same outdoorsy hobbies, I worried that I had strayed too far from people who shared my career ambitions. I was feeling especially distant from the tech zeitgeist: my area of expertise seemed to be taking over the world [[1]](#1), a bigger buzz than "big data" in 2012. How could I not be in SOMA with all the other young technologists, figuring out the future of generative AI? 
 
 I came to realize two things:
-1. The mental space I've created for myself in a place with a slower pace of life gives me more energy to work on side projects and explore cutting edge tech and big ideas on my own time. I don't overhear founders pitching their startups at every coffee shop, but I have the bandwidth to [really dig into new products on the market, new ideas](../a_year_with_investindata/), and figure out my own opinions and beliefs. Tech is global and largely remote these days; where I am physically matters less than where I am mentally, and I'm more present than ever. 
+1. The mental [space I've created](../fridays_are_yours/) for myself in a place with a slower pace of life gives me more energy to work on side projects and explore cutting edge tech and big ideas on my own time. I don't overhear founders pitching their startups at every coffee shop, but I have the bandwidth to [really dig into new products on the market, new ideas](../a_year_with_investindata/), and figure out my own opinions and beliefs. Tech is global and largely remote these days; where I am physically matters less than where I am mentally, and I'm more present than ever. 
 2. With that bandwidth, the time I spent really thinking about generative AI led me to think about what types of problems I really cared to apply it to. The companies being funded sparked my interest as a technologist, but I didn't think any would leave a legacy. I became far more interested in potential second-order effects: would generative AI ultimately free humanity to focus on bigger problems? What problems would those be, and, once freed, were we prepared to tackle them?
 
 **Identity: Lost and Found**

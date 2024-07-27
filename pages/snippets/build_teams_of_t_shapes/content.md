@@ -29,4 +29,4 @@ ___
 #### [1]
 The other one was Building Data Science Teams by DJ Patil.
 
-Considering I am still here thinking about these texts nearly a decade later, I would say this was a pretty high-value offsite. Pre-planning clearly helped!
+Considering I am still here thinking about these texts nearly a decade later, I would say this was a pretty high-value offsite. Pre-planning clearly helped! ([Relevant](https://dresscode.renttherunway.com/blog/fix-it-week)!)

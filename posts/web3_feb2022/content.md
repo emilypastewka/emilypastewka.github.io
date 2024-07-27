@@ -1,3 +1,8 @@
+<!--
+.. date: 2024-03-17
+.. tags: cleantech
+-->
+
 # Web3: 3D printing at worst, solar at best
 
 _One day live and I already have some interesting notes & counterarguments in my inbox/DMs. Safe to say this post is going to feel dated pretty fast._

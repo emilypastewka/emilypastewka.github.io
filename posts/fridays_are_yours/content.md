@@ -1,6 +1,6 @@
 <!--
 .. date: 2023-02-25:00 UTC-07:00
-.. tags: jobs, startups
+.. tags: career, startups
 -->
 
 # "Fridays are yours"
