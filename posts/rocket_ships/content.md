@@ -39,7 +39,7 @@ I didn't.
 
 
 #### [1]
-See also: Senator Mark Kelly.
+Far more literally, and publicly, see also: Senator Mark Kelly.
 
 #### [2]
 Including declining an initial offer in 2012 to do customer support. I have looked back and regretted that decision, who wouldn't? But I also feel fairly certain I would've quit before I even vested my first cliff. Customer support in 2012 was a grueling 18-hour day with a ticket-answering quota in the hundreds. Yes, most people doing it had a bachelors degree (at least) and years of work experience. Kudos to those who took the opportunity and made it work. I spent the years working on my data skills and landed the role I wanted when Uber was still plenty young.
