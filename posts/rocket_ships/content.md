@@ -12,7 +12,7 @@
 
 This is one of the most-quoted lines in Silicon Valley, and yet I can't be alone in how much I disagree with the advice. As with anything in life, your decisions should be made and actions should be taken with a purpose, a goal in mind. If your primary objective is to ride on a rocket ship, by all means, this advice makes sense. If your primary objective is to see your child grow up, first ask if you're signing up for a seat with a return journey. If your primary objective is to be an expert pilot, first ask if your seat puts you anywhere near the controls. 
 
-What's more, not all rockets are the same. Some rockets will go to the ISS, others will go to the moon, still others target Mars. Some rockets are built by well-funded organizations and more likely to survive takeoff. 
+What's more, not all rockets are the same. Some rockets will go to the ISS, others will go to the moon, still others target Mars. Some rockets are built by well-funded organizations and are more likely to survive takeoff. 
 
 If you ride on any given rocket, someone will probably be interested in hiring you for other jobs later. My Uber background definitely shows me that. But I chose the Uber rocket for a reason, and I chose every seat I took on that rocket very carefully [[1]](#1).
 
