@@ -48,6 +48,11 @@ Research labs, government institutions, nonprofits, and universities also develo
 
 A final note: for-profit enterprises don't just work with the types of companies in this picks and shovels group. The energy space of today is highly collaborative. A solution in one area may require a partner doing totally different work to be fully realized. Wherever you plug in (_I had to!_), you're sure to learn about a wide swath of things discussed here. 
 
+
+# Feedback
+
+What did I miss? [Get in touch.](mailto:emilypastewka@gmail.com)
+
 ---
 
 This post is part of a series: [Back to My Roots in Cleantech](../back_to_my_roots_in_cleantech/)

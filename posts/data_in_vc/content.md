@@ -42,6 +42,12 @@ Network is key to the VC industry: access to deal flow is what determines the si
 What can I say, it's on my mind.
 
 
+# Feedback
+I've spent spent a lot of time (years) knocking these ideas around with friends in the industry, but always love feedback. [Get in touch.](mailto:emilypastewka@gmail.com)
+
+---
+
+
 #### [1]
 Especially true for PE firms. VC firms tend to be closer to tech, so they've experimented for longer with in-house data expertise. The [Private Equity Technology Podcast](https://podcasts.apple.com/us/podcast/private-equity-technology-podcast/id1265864756), which launched in 2017 but really started to get into data in 2019, covers a lot of PE tech strategies.
 
