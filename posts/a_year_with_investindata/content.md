@@ -26,7 +26,7 @@ GGV Capital, who help run the group, have been successfully running a similar gr
 
 **Impact & engagement with startups**
 
-I love dreaming up and building the future, and IID [[3]](32) provides the chance to be part of that process with more startups than just the one I work for full-time, as a design partner or even just as a trusted Angel. I've long said that I prefer to [build](../../pages/snippets/be_an_owner/) things than tell others how to do so, but companies who choose to take investment from IID are excited about access to the collection of data leaders with expertise in their space. They know we've built our own versions of solutions to the problems they're tackling, and seek to work with us with that experience in mind. Before choosing to join, I met with the CEO of a portfolio company who told me conversations with IID had been instrumental in convincing him to make a risky pivot. Founders who come to IID are not generally looking for the relatively small amount of money we contribute: they come to IID seeking true partnership.
+I love dreaming up and building the future, and IID [[3]](32) provides the chance to be part of that process with more startups than just the one I work for full-time, as a design partner or even just as a trusted Angel. I've long said that I prefer to [build](../../pages/snippets/be_an_owner/) things than tell others how to do so, but companies who choose to take investment from IID are excited about access to the collection of data leaders with expertise in their space. They know we've built our own versions of solutions to the problems they're tackling, and seek to work with us with that experience in mind. Before choosing to join, I met with the CEO of a portfolio company who told me conversations with IID had been instrumental in convincing him to make a risky pivot. Founders who come to IID are not generally looking for the relatively small amount of money we contribute: they come to IID seeking true partnership. [[4]](#4)
 
 **Broaden view of landscape**
 
@@ -38,7 +38,7 @@ In addition to discussing startups & their products, the IID community seemed li
 
 **Learning a new discipline**
 
-Finance has always been a tangential career interest of mine [[4]](#4), and private equity in particular becomes more and more interesting as time passes. Who decides which companies get a shot, and how? Watching cycles of tech development, money, and media I've found that turns of events that would've bewildered a younger me now frequently make sense.  It's also struck me increasingly that [each career choice I make is a big bet](../valuations_mar2022/), whereas financial investors spread their risk out.
+Finance has always been a tangential career interest of mine [[5]](#5), and private equity in particular becomes more and more interesting as time passes. Who decides which companies get a shot, and how? Watching cycles of tech development, money, and media I've found that turns of events that would've bewildered a younger me now frequently make sense.  It's also struck me increasingly that [each career choice I make is a big bet](../valuations_mar2022/), whereas financial investors spread their risk out.
 
 I've always loved finding ways to test into things before jumping in fully. IID might help me learn how a background in tech and skills with data translate to this related field.
 
@@ -77,7 +77,7 @@ Having another Slack to keep up with can be tiring, but it keeps me in close and
 
 At times, the group can also make me envious. I'm Head of Data at a company fairly early on our data journey. We are not a pure tech company, and data is a key support to critical day-to-day operations. It's very different from past roles, where I've led cutting edge machine learning engineering and product groups. While I know I'm building toward that at my current company, it can be tough to see others deep in the weeds of the problems I'm itching to tackle while I steadily build my team's foundations.
 
-That said, I also see within this group that no single data leader is actively working on every new hot technology, and there are a number of people, like me, are more focused on the fundamentals of data platforms and semantic layers than they are on generative AI or distributed data processing. The reality of the head of data role is that the less sexy pieces of the job are critical to [land](../../pages/snippets/focus_on_one_thing_land_it/) [[5]](#5).
+That said, I also see within this group that no single data leader is actively working on every new hot technology, and there are a number of people, like me, are more focused on the fundamentals of data platforms and semantic layers than they are on generative AI or distributed data processing. The reality of the head of data role is that the less sexy pieces of the job are critical to [land](../../pages/snippets/focus_on_one_thing_land_it/) [[6]](#6).
 
 **Learning a new discipline**
 
@@ -87,7 +87,7 @@ VC investing all starts with sourcing, and I was pleased to find that I might be
 
 Due diligence has also been a highlight. I've enjoyed sourcing & sifting through information to build a [cogent narrative](../../pages/snippets/write_for_thought/), parsing my opinions from the facts. 
 
-I have yet to develop as much confidence in making final decisions about companies. Over the coming year, I look forward to running more retrospectives on decision-making, so that I can hone this skill. I joke that I have "founder goggles" — I love to be shown a vision of a brighter future [[6]](#6). I also try to remind myself that my vote is just [one of many](../../pages/snippets/humility_is_key_to_collaboration/) in this group, and it's our [collective wisdom](../../pages/snippets/transactive_memory/) that we believe gives us an edge, but I still track how my votes match up against the aggregate and am surprised at where I've deviated from the mean. One thing I've realized is that not only do we have different backgrounds, but we also optimize for different things: some people just want to get closer to a technology, others are really focused on the financial return and won't get excited about a company with an already-high valuation. We can probably get tighter on our shared vision. 
+I have yet to develop as much confidence in making final decisions about companies. Over the coming year, I look forward to running more retrospectives on decision-making, so that I can hone this skill. I joke that I have "founder goggles" — I love to be shown a vision of a brighter future [[7]](#7). I also try to remind myself that my vote is just [one of many](../../pages/snippets/humility_is_key_to_collaboration/) in this group, and it's our [collective wisdom](../../pages/snippets/transactive_memory/) that we believe gives us an edge, but I still track how my votes match up against the aggregate and am surprised at where I've deviated from the mean. One thing I've realized is that not only do we have different backgrounds, but we also optimize for different things: some people just want to get closer to a technology, others are really focused on the financial return and won't get excited about a company with an already-high valuation. We can probably get tighter on our shared vision. 
 
 
 #### [1]
@@ -100,12 +100,15 @@ On a phone call from the ISS, Scott Kelly asked Tom Wolfe how to approach writin
 Did you catch that? [;)](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
 
 #### [4]
+Along these lines, I love what Paul Graham [has to say](https://paulgraham.com/angelinvesting.html) about being a good person to be a good Angel.
+
+#### [5]
 Duke didn't have a Finance program back in 2008, so studying Economics was a well-trod path to Wall Street. I was the only honors graduate not heading that direction. I ended up reporting to Uber's CFO for three years anyway, and loved every minute of it. 
 
 I have since spent time with my undergrad Econ thesis advisor discussing how the degree could be more meaningful for those interested in studying economics for use in other fields. I've advised a transition to more open source programming languages, and shared my experience applying econometrics to data science as a resource to building up a stronger program for students interested in a career in tech.
 
-#### [5]
+#### [6]
 My boss at Rent the Runway told me he thought my job at the time (head of machine learning) was more fun than his, and I didn't quite see it then. I get it now. 
 
-#### [6]
+#### [7]
 As the GGV investors remind me, an ultra compelling founder is actually a great reason to invest, especially at early stages
