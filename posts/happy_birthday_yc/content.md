@@ -20,7 +20,7 @@ Though I've worked almost exclusively at private companies throughout my career,
 Proud of David, and equally inspired to keep building the future-oriented, slightly crazy things we’re working on at [Palmetto](https://palmetto.com/energy-intelligence) + funding other future-oriented, slightly crazy builders through [InvestInData](https://www.linkedin.com/company/investindata/).
 
 #### [1]
-As we learned that night, also known as "[black t-shirt](https://x.com/bchesky/status/1469481491637825538) founders."
+As we learned that night, also known as "[black t-shirt](https://x.com/bchesky/status/1469481491637825538) founders." (And, obviously, their partners)
 
 #### [2]
-Ok, so it's a startup within a startup — easier in some ways, harder in others. I probably owe a full post on that another time.
+Ok, so it's a startup within a startup — easier in some ways, harder in others. I probably owe a full post on that another time. Not sure exactly where we are yet on the curve shown on the whiteboard, but we did get [our TechCrunch of Initiation](https://techcrunch.com/2025/03/17/palmetto-wants-software-developers-to-electrify-america-using-its-ai-building-models/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAC0n93VEmaAT8AyPzJjUGVyxo2Xswx8OScDV2N8DDGrXWyEq0yDzr9fLenpMK10f0mQf0ny0-d6DwRZSTtzZ69_NqGy95WAZc1D9WlQmteQjaS1KKVnmfD0rjkJNKa9h773hIsqiAE5_YnGshauChsWAvwFmEZl1UULoaZ-jZX65) a few weeks ago...
