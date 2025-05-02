@@ -10,9 +10,9 @@
 
 – Sheryl Sandberg
 
-This is one of the most-quoted lines in Silicon Valley, and yet I can't be alone in how much I disagree with the advice. As with anything in life, your decisions should be made and actions should be taken with a purpose, a goal in mind. If your primary objective is to ride on a rocket ship, by all means, this advice makes sense. If your primary objective is to see your child grow up, first ask if you're signing up for a seat with a return journey. If your primary objective is to be an expert pilot, first ask if your seat puts you anywhere near the controls. 
+This is one of the most-quoted lines in Silicon Valley, and yet I can't be alone in how much I disagree with the advice. As with anything in life, your decisions should be made and actions should be taken with a purpose, a goal in mind. If your primary objective is to ride on a rocket ship, by all means, this advice makes sense. If your primary objective is to see your child grow up, first ask if you're signing up for a seat with a return journey. If your primary objective is to be an expert pilot, first ask if your seat puts you anywhere near the controls.
 
-What's more, not all rockets are the same. Some rockets will go to the ISS, others will go to the moon, still others target Mars. Some rockets are built by well-funded organizations and are more likely to survive takeoff. 
+What's more, not all rockets are the same. Some rockets will go to the ISS, others will go to the moon, still others target Mars. Some rockets are built by well-funded organizations and are more likely to survive takeoff.
 
 If you ride on any given rocket, someone will probably be interested in hiring you for other jobs later. My Uber background definitely shows me that [[1]](#1). But I chose the Uber rocket for a reason, and I chose every seat I took on that rocket very carefully [[2]](#2).
 
@@ -27,11 +27,11 @@ The other big boom on my (everyone's) radar is, of course, AI. While [constraint
 I want to be on a rocket in the Energy galaxy.
 
 # Sitting in the Data Seat
-In addition, I'm still a data person who loves building consumer products. This is what fuels me (_ha-ha_), where I do my best work. I looked at [what data problems exist](../energy_tech_data_problems/) across energy companies, and not all companies have a seat focused on the problems I love to dig in on. 
+In addition, I'm still a data person who loves building consumer products. This is what fuels me (_ha-ha_), where I do my best work. I looked at [what data problems exist](../energy_tech_data_problems/) across energy companies, and not all companies have a seat focused on the problems I love to dig in on.
 
-I also love leading the data function, having responsibility for not just DS/ML or analytics but data engineering, data product development, and business strategy. 
+I also love leading the data function, having responsibility for not just DS/ML or analytics but data engineering, data product development, and business strategy.
 
-It takes a little bit of luck to be open to new opportunities at the same time that the right rocket ship opens up the right seat. [Life is tradeoffs](../../pages/snippets/life_is_tradeoffs/): some people might settle on one of these dimensions for very good reasons. 
+It takes a little bit of luck to be open to new opportunities at the same time that the right rocket ship opens up the right seat. [Life is tradeoffs](../../pages/snippets/life_is_tradeoffs/): some people might settle on one of these dimensions for very good reasons.
 
 I didn't.
 
