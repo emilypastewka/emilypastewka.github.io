@@ -29,28 +29,28 @@ Putting it all together comes back to what appears to be the word of the year: a
 
 ---
 
-#### [[1]]
+#### [1]
 I co-hosted the official energy hackathon. Trust me, this is completely unbiased: it was the most fun event of the week.
 
-#### [[2]]
+#### [2]
 And so much more. I wrote about [data x climate](../energy_tech_data_problems/) a few years ago, but here are some of my recent favorites:
 * optimize the grid: Utilidata, Tapestry, Camus
 * predict and respond to natural disasters and large-scale climate shifts: Silurian.ai, First Street, Rhizome, Brightband
 * discover new materials that can better sequester carbon: Argonne, CuspAI, Orbital Materials
 
-#### [[3]]
+#### [3]
 For small startups, reporting protocols like Scope 1-3 are typically not expected...except climate startups! Investors often promise portfolio-level reporting to their LPs.
 
-#### [[4]]
+#### [4]
 Business school publications, consultancies et al. publish survey-based research, but I'm looking for something harder showing that we have moved beyond Solow's paradox.
 
-#### [[5]]
+#### [5]
 Leaving a positive stat here instead: [Stanford's 2025 AI Index](https://hai.stanford.edu/ai-index) finds that energy efficiency has improved by 40% each year.
 
-#### [[6]]
+#### [6]
 A bit shocked that I don't have a prior post to link to here. Misaligned incentives under capitalism have been the reason I left 3 jobs.
 
-#### [[7]]
+#### [7]
 I've recently started to tell people who want to work on climate that optimizing AI compute might be the most impactful thing they could work on. The best part is that projects like these are happening all over the industry:
 * Model distillation & pruning
 * Edge inference
@@ -60,10 +60,10 @@ I've recently started to tell people who want to work on climate that optimizing
     * "Follow the sun"
     * Can't help but name 2 specific companies: Crusoe and Ceramic are really cool
 
-#### [[8]]
+#### [8]
 Earlier this year I finally got around to reading _Sapiens_ by Yuval Noah Harari. He makes a similar claim (though my interpretation of the last page of the book is that his goal for writing it was not actually oriented around galvanizing energy innovation but rather deep thought around what we really want and should expect out of genetic modification. Next up in Libby: _Homo Deus_ and _Nexus_).
 
 I also reference this piece [here](../rocket_ships/).
 
-#### [[9]]
+#### [9]
 While not referenced on that snippet, I believe Ezra Klein articulated this viewpoint very well on a 2023 or 2024 podcast episode as well.
