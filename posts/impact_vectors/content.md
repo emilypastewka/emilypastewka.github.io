@@ -5,9 +5,9 @@
 
 # Impact Vectors
 
-As I wrote when I [first](../../pages/about/) launched this blog, I've always aimed to use my time to make the world a better place. It's not as easy as it sounds to decide what this means. Read a little bit about effective altruism [[1]](#1) and you may find yourself questioning whether a career as a financier with a philanthropic streak isn't in fact a better way to invest your effort than at a non-profit. On the other hand, maybe it makes sense to put less effort into work and instead prioritize thinking and acting locally: making good day-to-day decisions in your community, raising conscientious global citizens at home.
+As I wrote when I [first](../../pages/about/) launched this blog, I've always aimed to use my time to make the world a better place. It sounds like a clear goal, but figuring out how to accomplish it hasn't always been easy. Read a little bit about effective altruism [[1]](#1) and you may find yourself questioning whether a career as a financier with a philanthropic streak isn't in fact a better way to invest your effort than at a non-profit. On the other hand, maybe it makes sense to put less effort into work and instead prioritize thinking and acting locally: making good day-to-day decisions in your community, raising conscientious global citizens at home.
 
-Recently, I've found myself thinking about my impact as a vector. A vector of course has both direction and magnitude. By envisioning a vector to represent the impact of each job I've held, or jobs I consider taking, I can easily compare them. What's more, vectors are additive: I can vectorize decisions across various parts of my life and sum them to get an idea of my total impact on the world at any point in time, or normalize them by time spent in each role and find a measure of my cumulative impact.
+Recently, I've found it helpful to think about my impact as a Euclidean vector, having both **direction** and **magnitude**. By envisioning a vector to represent the impact of each job I've held, or jobs I consider taking, I can easily compare them. What's more, vectors are additive: I can vectorize decisions across various parts of my life and sum them to get an idea of my total impact on the world at any point in time, or normalize them by time spent in each role and find a measure of my cumulative impact.
 
 **Direction**
 
@@ -33,9 +33,9 @@ Uber cancelled Pool and slowed down investment in autonomous vehicles.
 ![Uber Actual](../../images/impact_vectors/Impact%20Vectors%20-%20Uber%20actual.jpg)
 
 Rent the Runway put ever more focus toward embracing rapid fashion cycles, acquiring and selling through inventory to keep up rather than remaining focused on creating the new paradigm it had originally promised.
-![RTR Actual](../../images/impact_vectors/Impact%20Vectors%20-%20RTR%20actual.jpg)
+ ![RTR Actual](../../images/impact_vectors/Impact%20Vectors%20-%20RTR%20actual.jpg)
 
-Today, I work on climate problems at Palmetto. I've never questioned the alignment of this company under the leadership of [Chris Kemper](https://palmetto.com/leadership/christopher-kemper). In terms of magnitude, [electrifying everything](https://www.amazon.com/Electrify-Optimists-Playbook-Energy-Future/dp/0262046237) is a key part of moving the needle toward an abundant energy future, but we're US only (many energy companies find it hard to cross international borders, given the nationalization of grids), and still focused only on residential.
+Today, I work on climate problems at Palmetto. I've never questioned the alignment of this company under the leadership of [Chris Kemper](https://palmetto.com/leadership/christopher-kemper). In terms of magnitude, [electrifying everything](https://www.amazon.com/Electrify-Optimists-Playbook-Energy-Future/dp/0262046237) is a key part of moving the needle toward an abundant energy future, but we're US only (many energy companies find it hard to cross international borders, given heavy government regulation over power grids), and still focused only on residential.
 ![Palmetto](../../images/impact_vectors/Impact%20Vectors%20-%20Palmetto.jpg)
 
 A big question today is what the impact of AI will be. It seems clear that the magnitude will be enormous — this technology may be [unprecedented](../../pages/snippets/the_unprecedented/) to such an extent that we can't even guess at how far the vector reaches, and debate rages about directionality, as well.
@@ -49,7 +49,7 @@ But if companies like Anthropic [[2]](#2) build AI that helps us [transform the 
 
 ## Uncertainty
 
-Of course, individual vectors only allow for point estimates on both dimensions. Whether you believe AI is pointing toward the red or the green, for instance, committing resources either way is currently a bet with an unknown outcome. But assuming you are [well-hired into the role and will bring a comparative advantage to their probability of success](../rocket_ships/), [putting your time and energy toward working at a specific company](../../pages/snippets/focus_on_one_thing_land_it/) [increases the probability that that company realizes the impact you believe it can have](../../pages/snippets/be_hypothesis_driven/).
+Of course, individual vectors only allow for point estimates on both dimensions. Whether you believe AI is pointing toward the red or the green, for instance, committing resources either way is currently a bet with an unknown outcome. But assuming you are [well-hired into a role and will bring a comparative advantage to a company's probability of success](../rocket_ships/), [putting your time and energy toward working on any given bet](../../pages/snippets/focus_on_one_thing_land_it/) [increases the probability that that company realizes the impact you believe it can have](../../pages/snippets/be_hypothesis_driven/).
 
 Not everything is in our control, but if you are uniquely positioned to bring about the future you hope to see, then tightening the uncertainty around a vector pointed in the right direction may be an excellent use of your time.
 
