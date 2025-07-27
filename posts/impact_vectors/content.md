@@ -35,10 +35,10 @@ Uber cancelled Pool and slowed down investment in autonomous vehicles.
 Rent the Runway put ever more focus toward embracing rapid fashion cycles, acquiring and selling through inventory to keep up rather than remaining focused on creating the new paradigm it had originally promised.
  ![RTR Actual](../../images/impact_vectors/Impact%20Vectors%20-%20RTR%20actual.jpg)
 
-Today, I work on climate problems at Palmetto. I've never questioned the alignment of this company under the leadership of [Chris Kemper](https://palmetto.com/leadership/christopher-kemper). In terms of magnitude, [electrifying everything](https://www.amazon.com/Electrify-Optimists-Playbook-Energy-Future/dp/0262046237) is a key part of moving the needle toward an abundant energy future, but we're US only (many energy companies find it hard to cross international borders, given heavy government regulation over power grids), and still focused only on residential.
+Today, I work on [climate problems](../energy_tech_data_problems/) at Palmetto. I've never questioned the alignment of this company under the leadership of [Chris Kemper](https://palmetto.com/leadership/christopher-kemper). In terms of magnitude, [electrifying everything](https://www.amazon.com/Electrify-Optimists-Playbook-Energy-Future/dp/0262046237) is a key part of moving the needle toward an abundant energy future, but we're US only (many energy companies find it hard to cross international borders, given heavy government regulation over power grids), and still focused only on residential.
 ![Palmetto](../../images/impact_vectors/Impact%20Vectors%20-%20Palmetto.jpg)
 
-A big question today is what the impact of AI will be. It seems clear that the magnitude will be enormous — this technology may be [unprecedented](../../pages/snippets/the_unprecedented/) to such an extent that we can't even guess at how far the vector reaches, and debate rages about directionality, as well.
+A big question today is what the [impact of AI](../ai_in_climate_tech/) will be. It seems clear that the magnitude will be enormous — this technology may be [unprecedented](../../pages/snippets/the_unprecedented/) to such an extent that we can't even guess at how far the vector reaches, and debate rages about directionality, as well.
 
 Job loss, geopolitical instability, and misaligned superintelligence lead to fears that AI companies may be pointing far in the negative direction.
 ![AI Bad Case](../../images/impact_vectors/Impact%20Vectors%20-%20AI%20bad%20case.jpg)
